@@ -2,7 +2,7 @@ name: RSS & HTML Aggregator
 
 on:
   schedule:
-    - cron: "37 * * * *"
+    - cron: "37 */6 * * *"
   workflow_dispatch:
 
 permissions:

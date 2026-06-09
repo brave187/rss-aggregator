@@ -57,9 +57,9 @@ rss_feed_urls = [
 output_file = "aggregated_feed.xml"
 processed_links_file = "processed_links.txt"
 
-# Define the time threshold: only process entries from the last 7 days.
+# Define the time threshold: only process entries from the last 24 hours.
 recent_time_threshold = datetime.datetime.now(
-    datetime.timezone.utc) - datetime.timedelta(days=7)
+    datetime.timezone.utc) - datetime.timedelta(hours=24)
 
 # Helper to normalize URLs (remove fragments, queries, and trailing slashes)
 def normalize_url(url: str) -> str:
