@@ -202,7 +202,7 @@ def update_feed(sorted_entries):
         etree.SubElement(channel, "title").text = "RSS Aggregator Feed"
         etree.SubElement(
             channel, "link"
-        ).text = "https://brave187.github.io/rss-agregator/aggregated_feed.xml"
+        ).text = "https://brave187.github.io/rss-aggregator/aggregated_feed.xml"
         etree.SubElement(
             channel, "description"
         ).text = "An aggregated feed of Microsoft blogs"
