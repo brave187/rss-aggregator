@@ -20,7 +20,7 @@ except Exception as e:
     print(f"Error during git reset: {e}")
 
 # Set to True for appending, False for overwriting
-append_mode = False
+append_mode = True
 # Set the maximum age for entries in days when in append mode
 max_age_days = 365
 
