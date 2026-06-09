@@ -48,19 +48,18 @@ rss_feed_urls = [
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=IntuneCustomerSuccess",
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft_365blog",
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog",
-    "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-entra-blog",
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=azuretoolsblog",
-    "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoft-security-baselines",
-    "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=windows-itpro-blog",    
+    "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=windows-itpro-blog",
+    "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoftintuneblog",
 ]
 
 # Set the output file name and state file
 output_file = "aggregated_feed.xml"
 processed_links_file = "processed_links.txt"
 
-# Define the time threshold: only process entries from the last 3 hours.
+# Define the time threshold: only process entries from the last 7 days.
 recent_time_threshold = datetime.datetime.now(
-    datetime.timezone.utc) - datetime.timedelta(hours=3)
+    datetime.timezone.utc) - datetime.timedelta(days=7)
 
 # Helper to normalize URLs (remove fragments, queries, and trailing slashes)
 def normalize_url(url: str) -> str:
