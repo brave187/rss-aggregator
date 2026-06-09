@@ -28,3 +28,7 @@
 2026-06-02T17:14:32 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-purview-enables-developers-with-strong-data-security/ba-p/4524626
 2026-06-02T16:32:15 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/reducing-ntlm-dependency-iakerb-and-localkdc-in-windows-insider/ba-p/4524615
 2026-06-02T16:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/new-windows-features-to-secure-today-s-data-in-a-post-quantum/ba-p/4523370
+2026-06-09T17:20:52 https://techcommunity.microsoft.com/t5/exchange-team-blog/released-june-2026-exchange-server-security-updates/ba-p/4524491
+2026-06-09T17:13:57 https://techcommunity.microsoft.com/t5/exchange-team-blog/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/ba-p/4518498
+2026-06-09T17:09:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/level-up-your-azure-network-security-skills-with-our-upcoming/ba-p/4525584
+2026-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/elevate-your-telemetry-using-custom-data-collection-in-microsoft/ba-p/4512530
