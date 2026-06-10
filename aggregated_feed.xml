@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Jun 2026 06:35:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:43:17 GMT</lastBuildDate>
     <item>
       <title>Extend Microsoft Purview data protection to AWS Bedrock agents for cross-cloud AI governance</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984</link>
@@ -71,5 +71,5 @@ While RPC is a rich and complicated protocol, the main component...</description
       <description>At Ignite in November, we announced that Microsoft Defender is now the only endpoint protection solution that allows data-hungry security teams to meet specific telemetry needs by optimizing their data collection right within the Defender portal, without the need to rely on fragmented and siloed solutions. Since then, we've heard from customers that this tool has been a game changer, enabling them to hunt through new data types as well as richer data on events already reported. The release of custom data collection was a key milestone in our ongoing journey to make Defender easy to manage and ...</description>
     </item>
   <item><title>ExchangeOnlineManagement 3.10.0 released</title><link>https://blog.icewolf.ch/archive/2026/06/10/exchangeonlinemanagement-3-10-0-released/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">https://blog.icewolf.ch/archive/2026/06/10/exchangeonlinemanagement-3-10-0-released/</guid><description>Hi All,
-A day ago, Microsoft has released a new Version of ExchangeOnlineManagement PowerShell Module</description></item></channel>
+A day ago, Microsoft has released a new Version of ExchangeOnlineManagement PowerShell Module</description></item><item><title>Restricting Access is The Most Important Step in a Microsoft 365 Copilot Deployment</title><link>https://office365itpros.com/2026/06/10/microsoft-365-copilot-prep/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-365-copilot-prep</link><pubDate>Wed, 10 Jun 2026 07:00:00 +0000</pubDate><guid isPermaLink="false">https://office365itpros.com/?p=73801</guid><description>I was asked what the most important step is in the deployment of Microsoft 365 Copilot. It's a good question. Put simply, restricted access is the answer. That is, restricting Copilot access to information stored in Microsoft 365 locations until your tenant is ready for unrestricted Copilot search and retrieval. The fortunate thing is that tools exist today to make it relatively easy to establish guardrails for Copilot, which is exactly what you need to do....</description></item></channel>
 </rss>
