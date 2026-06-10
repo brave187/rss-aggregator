@@ -162,11 +162,17 @@ def update_feed(sorted_entries):
     existing_links = set()
     changed = False
 
+    existing_feed_loaded = False
     if append_mode and os.path.exists(output_file):
-        # Load existing feed if appending
-        tree = etree.parse(output_file)
-        root = tree.getroot()
-        channel = root.find("channel")
+        try:
+            tree = etree.parse(output_file)
+            root = tree.getroot()
+            channel = root.find("channel")
+            existing_feed_loaded = True
+        except etree.XMLSyntaxError:
+            print("aggregated_feed.xml is missing or invalid — creating fresh feed.")
+
+    if existing_feed_loaded:
 
         # Prune old items from the existing XML when appending, using max_age_days
         cutoff = now - datetime.timedelta(days=max_age_days)
