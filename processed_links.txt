@@ -1,1 +1,8 @@
 
+2026-06-09T21:17:12 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984
+2026-06-09T18:08:56 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-may-2026-build-edition/ba-p/4524613
+2026-06-09T17:20:52 https://techcommunity.microsoft.com/t5/exchange-team-blog/released-june-2026-exchange-server-security-updates/ba-p/4524491
+2026-06-09T17:13:57 https://techcommunity.microsoft.com/t5/exchange-team-blog/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/ba-p/4518498
+2026-06-09T17:09:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/level-up-your-azure-network-security-skills-with-our-upcoming/ba-p/4525584
+2026-06-09T16:55:28 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-now-monitors-rpc-activity/ba-p/4523368
+2026-06-09T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/elevate-your-telemetry-using-custom-data-collection-in-microsoft/ba-p/4512530
