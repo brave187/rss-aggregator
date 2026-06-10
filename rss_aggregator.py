@@ -51,6 +51,10 @@ rss_feed_urls = [
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=azuretoolsblog",
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=windows-itpro-blog",
     "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoftintuneblog",
+    "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=microsoftintuneblog",
+    "https://blog.icewolf.ch/index.xml",
+    "https://office365itpros.com/feed/",
+    "https://levelupm365.com/feed/",
 ]
 
 # Set the output file name and state file
