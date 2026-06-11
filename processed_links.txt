@@ -123,3 +123,6 @@
 2026-05-13T00:00:00 https://blog.icewolf.ch/archive/2026/05/13/microsoft-graph-powershell-modules-2-37-0-released
 2026-05-12T18:25:34 https://techcommunity.microsoft.com/t5/azure-tools-blog/from-prompt-to-production-open-in-vs-code-for-terraform-in-azure/ba-p/4494931
 2026-05-12T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise
+2026-06-11T10:25:00 https://build5nines.com/big-thinkers-werner-vogels-the-operational-philosophy-behind-aws-and-hyperscale-cloud-architecture
+2026-06-11T06:32:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/at-scale-failure-reporting-for-azure-update-manager/ba-p/4527378
+2026-06-10T11:24:00 https://build5nines.com/agentic-ai-vs-traditional-automation-when-should-an-enterprise-use-agents
