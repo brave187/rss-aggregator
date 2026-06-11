@@ -126,3 +126,5 @@
 2026-06-11T10:25:00 https://build5nines.com/big-thinkers-werner-vogels-the-operational-philosophy-behind-aws-and-hyperscale-cloud-architecture
 2026-06-11T06:32:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/at-scale-failure-reporting-for-azure-update-manager/ba-p/4527378
 2026-06-10T11:24:00 https://build5nines.com/agentic-ai-vs-traditional-automation-when-should-an-enterprise-use-agents
+2026-06-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/reduce-unnecessary-internet-exposure-with-microsoft-defender/ba-p/4525654
+2026-06-11T12:15:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/analyse-intune-diagnostics-logs-with-github-copilot/ba-p/4527500
