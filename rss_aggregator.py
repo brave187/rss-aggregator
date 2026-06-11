@@ -55,6 +55,8 @@ rss_feed_urls = [
     "https://blog.icewolf.ch/index.xml",
     "https://office365itpros.com/feed/",
     "https://levelupm365.com/feed/",
+    "https://build5nines.com/feed/",
+    "https://www.cloudcook.ch/rss/",
 ]
 
 # Set the output file name and state file
