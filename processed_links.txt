@@ -12,3 +12,5 @@
 2026-06-10T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/new-exchange-online-mailbox-auditing-signal-visibility-into-ipm/ba-p/4526914
 2026-06-10T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/making-microsoft-teams-more-responsive-reliable-and-ready-for/ba-p/4526527
 2026-06-11T00:00:00 https://blog.icewolf.ch/archive/2026/06/11/powertoys-v0-100-0-released
+2026-06-11T07:00:00 https://office365itpros.com/2026/06/11/sensitivity-label-ps
+2026-06-11T00:00:00 https://blog.icewolf.ch/archive/2026/06/11/busylight-2-5-8-released
