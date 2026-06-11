@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 10 Jun 2026 16:25:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 05:13:34 GMT</lastBuildDate>
     <item>
       <title>Extend Microsoft Purview data protection to AWS Bedrock agents for cross-cloud AI governance</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984</link>
@@ -77,5 +77,6 @@ Every Exchange Online mailbox is organized into two parts:
 IPM subtree (Interpersonal Message subtree)&#160;&#8212; the visible, user-facing part of a mailbox, designed for messages exchanged between human recipients. This includes Inbox, Sent Items, Deleted Items, Calendar, Contacts, Tasks, Notes, and any custom folders a user creates. Exchange mailbox auditing has always focused on activity within this area.
 Non-IPM subtree&#160;&#8212; a hidden folder structure used by Exchange and Microsoft services for system-level storage, such as the Recoverable Items folder. Users cannot...</description></item><item><title>Making Microsoft Teams more responsive, reliable, and ready for work</title><link>https://techcommunity.microsoft.com/t5/microsoft-teams-blog/making-microsoft-teams-more-responsive-reliable-and-ready-for/ba-p/4526527</link><pubDate>Wed, 10 Jun 2026 15:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-teams-blog/making-microsoft-teams-more-responsive-reliable-and-ready-for/ba-p/4526527</guid><description>By: Ihor Lukyanenko, Sachin Jain, Kappa Ramlal, Abdul Rahim Charif, and&#160;Shangwei Fang&#160;
 Every day, hundreds of millions of people depend on Microsoft Teams to connect with colleagues, share ideas, make decisions, and move work forward. Whether they are jumping into a quick chat between meetings, joining a customer call that cannot be missed, or using Copilot to accomplish more, people rely on Teams to be ready the moment they need it.
-That trust is what drives our continued investment in performance. We know that every second saved, every interaction that feels more responsive, and every improv...</description></item></channel>
+That trust is what drives our continued investment in performance. We know that every second saved, every interaction that feels more responsive, and every improv...</description></item><item><title>PowerToys v0.100.0 released</title><link>https://blog.icewolf.ch/archive/2026/06/11/powertoys-v0-100-0-released/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">https://blog.icewolf.ch/archive/2026/06/11/powertoys-v0-100-0-released/</guid><description>Hi All,
+Today, i noticed that Microsoft has released a new Version of PowerToys.</description></item></channel>
 </rss>
