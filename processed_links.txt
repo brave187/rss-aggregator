@@ -130,3 +130,5 @@
 2026-06-11T12:15:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/analyse-intune-diagnostics-logs-with-github-copilot/ba-p/4527500
 2026-06-11T19:38:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/a-deep-dive-into-azure-bastion-session-recording/ba-p/4527583
 2026-06-11T17:50:00 https://techcommunity.microsoft.com/t5/microsoft-365-blog/putting-file-level-archiving-into-practice-with-microsoft-365/ba-p/4526459
+2026-06-12T07:46:39 https://www.cloudcook.ch/intune-security-baselines-why-your-tenant-is-probably-still-living-in-2023
+2026-06-12T07:00:00 https://office365itpros.com/2026/06/12/unlicensed-onedrive-for-business-2
