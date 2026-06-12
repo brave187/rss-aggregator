@@ -128,3 +128,5 @@
 2026-06-10T11:24:00 https://build5nines.com/agentic-ai-vs-traditional-automation-when-should-an-enterprise-use-agents
 2026-06-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/reduce-unnecessary-internet-exposure-with-microsoft-defender/ba-p/4525654
 2026-06-11T12:15:59 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/analyse-intune-diagnostics-logs-with-github-copilot/ba-p/4527500
+2026-06-11T19:38:25 https://techcommunity.microsoft.com/t5/azure-network-security-blog/a-deep-dive-into-azure-bastion-session-recording/ba-p/4527583
+2026-06-11T17:50:00 https://techcommunity.microsoft.com/t5/microsoft-365-blog/putting-file-level-archiving-into-practice-with-microsoft-365/ba-p/4526459
