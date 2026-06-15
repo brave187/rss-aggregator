@@ -136,3 +136,4 @@
 2026-06-12T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/workplace-presence-made-effortless-workplace-check-in-via-wi-fi/ba-p/4523386
 2026-06-15T11:52:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-daily-mde-compliance-monitoring-across-azure-vms/ba-p/4528274
 2026-06-15T07:00:00 https://office365itpros.com/2026/06/15/delete-teams-chat-threads
+2026-06-15T00:00:00 https://blog.icewolf.ch/archive/2026/06/15/m365-group-writeback-when-MX-points-to-onprem
