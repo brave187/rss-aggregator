@@ -140,3 +140,4 @@
 2026-06-15T20:33:07 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-leads-a-new-era-of-software-supply-chain-transparency/ba-p/4528369
 2026-06-15T17:51:11 https://techcommunity.microsoft.com/t5/intune-customer-success/known-issue-upgrading-microsoft-tunnel-version-20260129-1/ba-p/4517935
 2026-06-15T17:10:22 https://techcommunity.microsoft.com/t5/intune-customer-success/how-enterprise-app-management-secures-your-app-catalog-from/ba-p/4528361
+2026-06-16T11:20:00 https://build5nines.com/hashicorp-terraform-count-vs-for_each-vs-dynamic-blocks

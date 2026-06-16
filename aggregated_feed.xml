@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 16 Jun 2026 06:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:55:36 GMT</lastBuildDate>
     <item>
       <title>Extend Microsoft Purview data protection to AWS Bedrock agents for cross-cloud AI governance</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984</link>
@@ -238,5 +238,5 @@ Before you run the script, make sure you have the following:
 Access to the Linux virtual machine hosting the Microsoft Tunnel server
 Permis...</description></item><item><title>How Enterprise App Management secures your App Catalog from ingestion to device</title><link>https://techcommunity.microsoft.com/t5/intune-customer-success/how-enterprise-app-management-secures-your-app-catalog-from/ba-p/4528361</link><pubDate>Mon, 15 Jun 2026 17:10:22 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/intune-customer-success/how-enterprise-app-management-secures-your-app-catalog-from/ba-p/4528361</guid><description>By: Joe Lurie, Sr. Product Manager | Microsoft Intune
 One of the most common questions I get from customers when I talk about Enterprise App Management is some version of: "Okay, but how do I know these apps are safe?"
-It's a fair question. You're trusting a catalog of pre-packaged Win32 apps to land on thousands of managed devices across your organization. If you're responsible for endpoint security, you should be asking that question. This post explains how Enterprise App Management works behind the scenes, how apps get into the catalog, what happens before they're visible to your tenant, an...</description></item></channel>
+It's a fair question. You're trusting a catalog of pre-packaged Win32 apps to land on thousands of managed devices across your organization. If you're responsible for endpoint security, you should be asking that question. This post explains how Enterprise App Management works behind the scenes, how apps get into the catalog, what happens before they're visible to your tenant, an...</description></item><item><title>HashiCorp Terraform:&#160;count vs.&#160;for_each vs. Dynamic Blocks</title><link>https://build5nines.com/hashicorp-terraform-count-vs-for_each-vs-dynamic-blocks/</link><pubDate>Tue, 16 Jun 2026 11:55:36 GMT</pubDate><guid isPermaLink="false">https://build5nines.com/?p=42378</guid><description>You know that moment when a Terraform plan looks perfectly reasonable right up until it wants to replace half your infrastructure? It usually starts innocently.&#8230;</description></item></channel>
 </rss>
