@@ -244,9 +244,9 @@ def update_feed(sorted_entries):
         if append_mode:
             existing_links.add(norm_link)
 
-        pubdate = getattr(entry, "published", None) or getattr(
-            entry, "updated", None) or ""
-        etree.SubElement(item, "pubDate").text = pubdate
+        # Use the script run time as pubDate so Power Automate's high-water-mark
+        # trigger fires for every item, regardless of the source's original timestamp.
+        etree.SubElement(item, "pubDate").text = now.strftime("%a, %d %b %Y %H:%M:%S GMT")
         etree.SubElement(item, "guid", isPermaLink="false").text = (
             entry.id if hasattr(entry, "id") else entry.link
         )
