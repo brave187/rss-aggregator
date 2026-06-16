@@ -137,3 +137,6 @@
 2026-06-15T11:52:45 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/automating-daily-mde-compliance-monitoring-across-azure-vms/ba-p/4528274
 2026-06-15T07:00:00 https://office365itpros.com/2026/06/15/delete-teams-chat-threads
 2026-06-15T00:00:00 https://blog.icewolf.ch/archive/2026/06/15/m365-group-writeback-when-MX-points-to-onprem
+2026-06-15T20:33:07 https://techcommunity.microsoft.com/t5/microsoft-security-community/microsoft-leads-a-new-era-of-software-supply-chain-transparency/ba-p/4528369
+2026-06-15T17:51:11 https://techcommunity.microsoft.com/t5/intune-customer-success/known-issue-upgrading-microsoft-tunnel-version-20260129-1/ba-p/4517935
+2026-06-15T17:10:22 https://techcommunity.microsoft.com/t5/intune-customer-success/how-enterprise-app-management-secures-your-app-catalog-from/ba-p/4528361
