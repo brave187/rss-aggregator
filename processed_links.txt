@@ -144,3 +144,5 @@
 2026-06-16T17:00:01 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-public-preview-agent-identities-asset-connector-for/ba-p/4527960
 2026-06-16T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/transform-your-security-operation-with-a-unified-experience-in/ba-p/4527932
 2026-06-16T07:00:00 https://office365itpros.com/2026/06/16/monthly-license-increase-july-2026
+2026-06-16T00:00:00 https://blog.icewolf.ch/archive/2026/06/16/microsoft-graph-powershell-modules-2-38-0-released
+2026-06-16T00:00:00 https://blog.icewolf.ch/archive/2026/06/16/powershell-7-6-3-released
