@@ -225,6 +225,7 @@ def update_feed(sorted_entries):
         changed = True
 
     # Add new entries to the feed
+    added_index = 0
     for entry in sorted_entries:
         if not hasattr(entry, "title") or not hasattr(entry, "link"):
             continue
@@ -244,9 +245,12 @@ def update_feed(sorted_entries):
         if append_mode:
             existing_links.add(norm_link)
 
-        # Use the script run time as pubDate so Power Automate's high-water-mark
-        # trigger fires for every item, regardless of the source's original timestamp.
-        etree.SubElement(item, "pubDate").text = now.strftime("%a, %d %b %Y %H:%M:%S GMT")
+        # Use script run time as pubDate (with per-item second offset) so Power
+        # Automate's high-water-mark trigger fires for every item — even when
+        # several are added in the same run.
+        item_pubdate = now + datetime.timedelta(seconds=added_index * 60)
+        etree.SubElement(item, "pubDate").text = item_pubdate.strftime("%a, %d %b %Y %H:%M:%S GMT")
+        added_index += 1
         etree.SubElement(item, "guid", isPermaLink="false").text = (
             entry.id if hasattr(entry, "id") else entry.link
         )
