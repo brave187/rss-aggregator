@@ -148,3 +148,10 @@
 2026-06-16T00:00:00 https://blog.icewolf.ch/archive/2026/06/16/powershell-7-6-3-released
 2026-06-17T01:15:27 https://levelupm365.com/2026/06/16/create-a-second-brain-with-copilot-notebooks
 2026-06-17T07:00:00 https://office365itpros.com/2026/06/17/sspr-authentication-methods
+2026-06-17T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/anatomy-of-the-change/ba-p/4527934
+2026-06-17T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-new-additions-to-microsoft-sentinel-normalization/ba-p/4524584
+2026-06-17T12:35:52 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/securing-the-invisible-workforce/ba-p/4528611
+2026-06-17T11:36:00 https://build5nines.com/how-do-you-integrate-agentic-ai-with-legacy-enterprise-systems
+2026-06-17T11:10:30 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/security-copilot-rbac-for-embedded-experience-in-unified/ba-p/4528833
+2026-06-16T23:15:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/closing-the-loop-on-container-security-from-code-to-runtime-in/ba-p/4528599
+2026-06-16T21:27:48 https://techcommunity.microsoft.com/t5/intune-customer-success/triage-vulnerabilities-with-the-vulnerability-remediation-agent/ba-p/4528646
