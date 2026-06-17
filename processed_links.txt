@@ -146,3 +146,4 @@
 2026-06-16T07:00:00 https://office365itpros.com/2026/06/16/monthly-license-increase-july-2026
 2026-06-16T00:00:00 https://blog.icewolf.ch/archive/2026/06/16/microsoft-graph-powershell-modules-2-38-0-released
 2026-06-16T00:00:00 https://blog.icewolf.ch/archive/2026/06/16/powershell-7-6-3-released
+2026-06-17T01:15:27 https://levelupm365.com/2026/06/16/create-a-second-brain-with-copilot-notebooks
