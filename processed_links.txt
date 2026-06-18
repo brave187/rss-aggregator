@@ -155,3 +155,7 @@
 2026-06-17T11:10:30 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/security-copilot-rbac-for-embedded-experience-in-unified/ba-p/4528833
 2026-06-16T23:15:21 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/closing-the-loop-on-container-security-from-code-to-runtime-in/ba-p/4528599
 2026-06-16T21:27:48 https://techcommunity.microsoft.com/t5/intune-customer-success/triage-vulnerabilities-with-the-vulnerability-remediation-agent/ba-p/4528646
+2026-06-18T01:38:48 https://techcommunity.microsoft.com/t5/intune-customer-success/how-to-enable-https-support-for-microsoft-connected-cache-for/ba-p/4496173
+2026-06-17T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/engage-customers-with-teams-phone-agent-and-custom-voice-agents/ba-p/4526829
+2026-06-17T18:44:08 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-plan-1-is-now-rolling-out-to/ba-p/4527287
+2026-06-17T16:37:33 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-is-accelerating-cyberattacks-here-s-how-to-stay-ahead/ba-p/4528592
