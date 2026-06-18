@@ -161,3 +161,7 @@
 2026-06-17T16:37:33 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-is-accelerating-cyberattacks-here-s-how-to-stay-ahead/ba-p/4528592
 2026-06-18T07:00:00 https://office365itpros.com/2026/06/18/copilot-interaction-app
 2026-06-18T00:00:00 https://blog.icewolf.ch/archive/2026/06/18/celebrating-3000-blog-articles
+2026-06-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/detection-and-automation-reimagined/ba-p/4527933
+2026-06-18T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/it-experts-weigh-in-advanced-intune-capabilities-coming-to/ba-p/4516898
+2026-06-18T13:31:22 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-365-and-azure-virtual-desktop-expanding-access/ba-p/4515931
+2026-06-18T10:29:00 https://build5nines.com/big-thinkers-brendan-gregg-how-systems-performance-engineering-shaped-modern-observability
