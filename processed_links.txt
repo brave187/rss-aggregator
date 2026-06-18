@@ -159,3 +159,5 @@
 2026-06-17T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/engage-customers-with-teams-phone-agent-and-custom-voice-agents/ba-p/4526829
 2026-06-17T18:44:08 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/microsoft-defender-for-office-365-plan-1-is-now-rolling-out-to/ba-p/4527287
 2026-06-17T16:37:33 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-is-accelerating-cyberattacks-here-s-how-to-stay-ahead/ba-p/4528592
+2026-06-18T07:00:00 https://office365itpros.com/2026/06/18/copilot-interaction-app
+2026-06-18T00:00:00 https://blog.icewolf.ch/archive/2026/06/18/celebrating-3000-blog-articles
