@@ -167,3 +167,4 @@
 2026-06-18T10:29:00 https://build5nines.com/big-thinkers-brendan-gregg-how-systems-performance-engineering-shaped-modern-observability
 2026-06-18T20:49:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/microsoft-security-copilot-ai-driven-security-operations-at/ba-p/4528912
 2026-06-18T17:30:00 https://techcommunity.microsoft.com/t5/intune-customer-success/deploying-platform-sso-for-pre-macos-26-with-microsoft-intune/ba-p/4521368
+2026-06-18T22:10:47 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/microsoft-365-adds-advanced-microsoft-intune-solutions-at-scale/ba-p/4474272
