@@ -170,3 +170,4 @@
 2026-06-18T22:10:47 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/microsoft-365-adds-advanced-microsoft-intune-solutions-at-scale/ba-p/4474272
 2026-06-19T07:00:00 https://office365itpros.com/2026/06/19/baseline-scopes-ca
 2026-06-18T21:36:23 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-may-june-2026/ba-p/4529349
+2026-06-19T11:32:03 https://www.cloudcook.ch/intunecooker-because-comparing-intune-tenants-should-not-feel-like-archaeology
