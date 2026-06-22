@@ -173,3 +173,4 @@
 2026-06-19T11:32:03 https://www.cloudcook.ch/intunecooker-because-comparing-intune-tenants-should-not-feel-like-archaeology
 2026-06-19T17:05:18 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/get-ready-for-windows-11-version-26h2/ba-p/4529367
 2026-06-19T12:22:17 https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471
+2026-06-22T07:00:00 https://office365itpros.com/2026/06/22/powershell-woes-and-cmdlets
