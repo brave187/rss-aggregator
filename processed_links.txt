@@ -175,3 +175,4 @@
 2026-06-19T12:22:17 https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-ewsallowedappids-preparing-for-the-final-phase-of/ba-p/4529471
 2026-06-22T07:00:00 https://office365itpros.com/2026/06/22/powershell-woes-and-cmdlets
 2026-06-23T07:00:00 https://office365itpros.com/2026/06/23/automating-microsoft-365-3rd
+2026-06-23T11:56:50 https://build5nines.com/conditional-iterative-deployments-with-azure-bicep
