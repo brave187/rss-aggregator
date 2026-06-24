@@ -180,3 +180,5 @@
 2026-06-23T16:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/point-in-time-restore-for-windows-11-is-now-generally-available/ba-p/4508101
 2026-06-24T07:00:00 https://office365itpros.com/2026/06/24/find-inactive-channels
 2026-06-24T00:00:00 https://blog.icewolf.ch/archive/2026/06/24/basic-M365-monitoring-with-powershell-1-7
+2026-06-24T12:30:00 https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them
+2026-06-24T11:45:00 https://build5nines.com/azure-bicep-has-a-plan-mode-use-it-on-your-next-production-deployment
