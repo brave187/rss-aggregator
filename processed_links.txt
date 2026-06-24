@@ -178,3 +178,5 @@
 2026-06-23T11:56:50 https://build5nines.com/conditional-iterative-deployments-with-azure-bicep
 2026-06-23T21:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/best-practices-for-deploying-secure-boot-certificate-updates/ba-p/4529884
 2026-06-23T16:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/point-in-time-restore-for-windows-11-is-now-generally-available/ba-p/4508101
+2026-06-24T07:00:00 https://office365itpros.com/2026/06/24/find-inactive-channels
+2026-06-24T00:00:00 https://blog.icewolf.ch/archive/2026/06/24/basic-M365-monitoring-with-powershell-1-7
