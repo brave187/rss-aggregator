@@ -187,3 +187,4 @@
 2026-06-24T18:14:31 https://techcommunity.microsoft.com/t5/intune-customer-success/how-to-configure-macos-privacy-preferences-policy-control-pppc/ba-p/4530406
 2026-06-25T07:00:00 https://office365itpros.com/2026/06/25/graph-delta-queries-entra-id-groups
 2026-06-25T00:00:00 https://blog.icewolf.ch/archive/2026/06/25/renew-microsoft-exchange-server-auth-certificate-with-SE
+2026-06-25T11:37:00 https://build5nines.com/big-thinkers-guido-van-rossum-how-python-became-the-connective-tissue-of-modern-infrastructure-and-ai
