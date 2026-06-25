@@ -188,3 +188,4 @@
 2026-06-25T07:00:00 https://office365itpros.com/2026/06/25/graph-delta-queries-entra-id-groups
 2026-06-25T00:00:00 https://blog.icewolf.ch/archive/2026/06/25/renew-microsoft-exchange-server-auth-certificate-with-SE
 2026-06-25T11:37:00 https://build5nines.com/big-thinkers-guido-van-rossum-how-python-became-the-connective-tissue-of-modern-infrastructure-and-ai
+2026-06-25T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/what-s-new-in-microsoft-intune-june/ba-p/4491983
