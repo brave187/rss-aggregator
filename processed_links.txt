@@ -185,3 +185,5 @@
 2026-06-23T20:35:15 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/a-guide-to-innovating-threat-hunting-with-microsoft-sentinel/ba-p/4530287
 2026-06-24T20:30:26 https://techcommunity.microsoft.com/t5/microsoft-security-community/how-karambit-ai-and-microsoft-bring-software-authenticity-to-14/ba-p/4528606
 2026-06-24T18:14:31 https://techcommunity.microsoft.com/t5/intune-customer-success/how-to-configure-macos-privacy-preferences-policy-control-pppc/ba-p/4530406
+2026-06-25T07:00:00 https://office365itpros.com/2026/06/25/graph-delta-queries-entra-id-groups
+2026-06-25T00:00:00 https://blog.icewolf.ch/archive/2026/06/25/renew-microsoft-exchange-server-auth-certificate-with-SE
