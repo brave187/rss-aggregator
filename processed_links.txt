@@ -194,3 +194,4 @@
 2026-06-25T20:11:19 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/the-governance-shift-rbac-urbac-data-lake-and-mssp/ba-p/4528607
 2026-06-25T18:33:03 https://techcommunity.microsoft.com/t5/intune-customer-success/microsoft-intune-and-apple-platform-updates-what-to-expect-after/ba-p/4531058
 2026-06-25T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/security-community-spotlight-sathish-veerapandian/ba-p/4530697
+2026-06-26T20:20:43 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-state-of-mcp-security-in-2026/ba-p/4531327
