@@ -202,3 +202,5 @@
 2026-06-30T00:00:00 https://blog.icewolf.ch/archive/2026/06/30/microsoftplaces-powershell-module-2-1-10-has-been-released
 2026-06-30T00:00:00 https://blog.icewolf.ch/archive/2026/06/30/powershell-module-microsoft-online-sharepoint-powershell-16-0-27424-12000
 2026-06-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/your-readiness-playbook-adoption-helper-costs-apis-and-the/ba-p/4528608
+2026-06-30T12:03:57 https://build5nines.com/terraform-dependency-management-when-ordering-matters-more-than-you-think
+2026-06-29T17:48:32 https://techcommunity.microsoft.com/t5/microsoft-security-community/understand-your-sentinel-tables-at-a-glance-monitor-with-table/ba-p/4530738
