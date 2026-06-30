@@ -197,3 +197,4 @@
 2026-06-26T20:20:43 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-state-of-mcp-security-in-2026/ba-p/4531327
 2026-06-29T07:00:00 https://office365itpros.com/2026/06/29/copilot-memory-updates
 2026-06-29T04:38:32 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/authenticating-aws-workloads-to-azure-functions-using-workload/ba-p/4531603
+2026-06-29T18:31:55 https://techcommunity.microsoft.com/t5/intune-customer-success/streamlining-macos-security-automatically-enable-autofill-after/ba-p/4531908

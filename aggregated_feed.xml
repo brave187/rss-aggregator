@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 29 Jun 2026 11:34:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:48:46 GMT</lastBuildDate>
     <item>
       <title>Extend Microsoft Purview data protection to AWS Bedrock agents for cross-cloud AI governance</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984</link>
@@ -262,5 +262,7 @@ This approach improves security, removes secret management overhead, and aligns 
 Let&#8217;s start by understanding why this approach is needed in a multi-cloud environment.
 &#160;
 Why this approach is needed&#160;
-In today&#8217;s multi-cloud landscape, organizations&#160;frequently&#160;need to connect services across cloud provid...</description></item></channel>
+In today&#8217;s multi-cloud landscape, organizations&#160;frequently&#160;need to connect services across cloud provid...</description></item><item><title>Streamlining macOS security: Automatically enable AutoFill after Platform SSO registration</title><link>https://techcommunity.microsoft.com/t5/intune-customer-success/streamlining-macos-security-automatically-enable-autofill-after/ba-p/4531908</link><pubDate>Tue, 30 Jun 2026 04:48:46 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/intune-customer-success/streamlining-macos-security-automatically-enable-autofill-after/ba-p/4531908</guid><description>By: Chris Kunze - Principal Product Manager | Microsoft Intune
+Platform single sign-on (SSO) improves how macOS devices establish identity with Microsoft Entra ID, enabling a more secure and streamlined authentication experience. However, completing Platform SSO registration isn&#8217;t enough to deliver a fully passwordless workflow. To enable passwordless authentication in Safari, Microsoft Edge, and Google Chrome, the Company Portal AutoFill extension must also be enabled. In many deployments, this step still depends on the user.
+Devices may be fully enrolled, and Platform SSO may be successfully...</description></item></channel>
 </rss>
