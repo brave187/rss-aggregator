@@ -208,3 +208,5 @@
 2026-06-30T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-unified-alert-experience-for-microsoft-purview/ba-p/4530714
 2026-07-01T00:00:00 https://blog.icewolf.ch/archive/2026/07/01/git-for-windows-2-55-0
 2026-06-30T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-june-2026-infocomm-edition/ba-p/4531968
+2026-06-30T18:27:57 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-backup-and-recovery-is-now-generally-available/ba-p/4521997
+2026-06-30T17:36:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-expands-multicloud-coverage-across/ba-p/4532200
