@@ -204,3 +204,5 @@
 2026-06-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/your-readiness-playbook-adoption-helper-costs-apis-and-the/ba-p/4528608
 2026-06-30T12:03:57 https://build5nines.com/terraform-dependency-management-when-ordering-matters-more-than-you-think
 2026-06-29T17:48:32 https://techcommunity.microsoft.com/t5/microsoft-security-community/understand-your-sentinel-tables-at-a-glance-monitor-with-table/ba-p/4530738
+2026-07-01T00:02:00 https://office365itpros.com/2026/07/01/microsoft-365-for-it-pros
+2026-06-30T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-unified-alert-experience-for-microsoft-purview/ba-p/4530714

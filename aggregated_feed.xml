@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Tue, 30 Jun 2026 15:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 05:09:47 GMT</lastBuildDate>
     <item>
       <title>Extend Microsoft Purview data protection to AWS Bedrock agents for cross-cloud AI governance</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984</link>
@@ -273,5 +273,6 @@ Table insights is a new panel on the Sentinel Tables page that gives you 30-day 
 Who benefits: SOC engineers chasing silent data connectors, platform owners chasing cost spikes, FinOps teams chasing chargeback clarity &#8212; all from the same screen.
 Why&#160;these matter&#160;
 Every Sentinel customer I talk to has the same two recurring incidents.&#160;
-"A third-party data connector stopped sending data three days ago and nobody notice...</description></item></channel>
+"A third-party data connector stopped sending data three days ago and nobody notice...</description></item><item><title>Announcing Microsoft 365 for IT Pros (2027 Edition)</title><link>https://office365itpros.com/2026/07/01/microsoft-365-for-it-pros/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-365-for-it-pros</link><pubDate>Wed, 01 Jul 2026 05:09:47 GMT</pubDate><guid isPermaLink="false">https://office365itpros.com/?p=74140</guid><description>We're happy to announce the publication of Microsoft 365 for IT Pros (2027 edition) eBook, the most comprehensive and up-to-date book covering tenant management. Previously named Office 365 for IT Pros and now spanning four books, Microsoft 365 for IT Pros includes coverage of Exchange Online, SharePoint Online, Entra ID, Teams, Planner, and many other aspects of the Microsoft 365 ecosystem, including hundred of examples of using PowerShell and the Microsoft Graph to automate tenant operations....</description></item><item><title>Introducing a unified alert experience for Microsoft Purview Insider Risk Management</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-unified-alert-experience-for-microsoft-purview/ba-p/4530714</link><pubDate>Wed, 01 Jul 2026 05:10:47 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-unified-alert-experience-for-microsoft-purview/ba-p/4530714</guid><description>Modern insider risk investigations succeed or fail based on how quickly analysts can move from&#160;signal to decision&#160;with more context.&#160;Too often, investigations&#160;within Microsoft Purview&#160;require&#160;high switching costs&#160;while analysts struggle with&#160;disconnected&#160;alert&#160;views&#160;and scattered case notes across workflows.&#160;Every switch slows triage pulling&#160;focus away from the risk&#160;itself,&#160;decreasing the&#160;speed and confidence of investigations.&#160;
+That&#8217;s&#160;why&#160;we&#8217;re&#160;unifying the&#160;Microsoft Purview&#160;Insider Risk Management investigation experience&#160;with three connected&#160;improvements&#160;&#8212; a unified alert queue, expanded us...</description></item></channel>
 </rss>
