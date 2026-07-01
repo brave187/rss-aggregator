@@ -210,3 +210,7 @@
 2026-06-30T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-june-2026-infocomm-edition/ba-p/4531968
 2026-06-30T18:27:57 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-backup-and-recovery-is-now-generally-available/ba-p/4521997
 2026-06-30T17:36:56 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-expands-multicloud-coverage-across/ba-p/4532200
+2026-07-01T19:02:38 https://levelupm365.com/2026/07/01/microsoft-365-roadmap-updates-july-2026
+2026-07-01T16:33:28 https://build5nines.com/ai-wont-end-outsourcing-or-entry-level-jobs-but-it-will-rewrite-both
+2026-07-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/advanced-microsoft-intune-capabilities-now-available-in/ba-p/4529335
+2026-07-01T09:30:09 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-july-2026/ba-p/4532402
