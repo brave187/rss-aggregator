@@ -206,3 +206,5 @@
 2026-06-29T17:48:32 https://techcommunity.microsoft.com/t5/microsoft-security-community/understand-your-sentinel-tables-at-a-glance-monitor-with-table/ba-p/4530738
 2026-07-01T00:02:00 https://office365itpros.com/2026/07/01/microsoft-365-for-it-pros
 2026-06-30T19:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/introducing-a-unified-alert-experience-for-microsoft-purview/ba-p/4530714
+2026-07-01T00:00:00 https://blog.icewolf.ch/archive/2026/07/01/git-for-windows-2-55-0
+2026-06-30T15:30:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-june-2026-infocomm-edition/ba-p/4531968
