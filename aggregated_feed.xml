@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Wed, 01 Jul 2026 20:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 04:44:31 GMT</lastBuildDate>
     <item>
       <title>Extend Microsoft Purview data protection to AWS Bedrock agents for cross-cloud AI governance</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984</link>
@@ -282,5 +282,6 @@ This is our monthly "What's new" blog post, summarizing product updates and vari
 &#128640; New Virtual Ninja Show episode:
 
  Redefining identity security for the modern enterprise
- One policy engine to govern them all: Securin...</description></item></channel>
+ One policy engine to govern them all: Securin...</description></item><item><title>Windows news you can use: June 2026</title><link>https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-news-you-can-use-june-2026/ba-p/4532288</link><pubDate>Thu, 02 Jul 2026 04:44:31 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-news-you-can-use-june-2026/ba-p/4532288</guid><description>Earlier this month, we announced that Windows 11, version 26H2&#8212;the next annual feature update for Windows 11&#8212;is now available for early testing and validation via the Windows Insider Program. As this release will share the same servicing branch as versions 25H2 and 24H2, devices can be updated using an enablement package, quickly and with minimal disruption to users. Microsoft also announced major Windows 365 updates at Build 2026, introducing ready-to-code Cloud PCs, expanded developer-focused capabilities, and new support for secure enterprise AI agents.
+Now let's dive into more developments...</description></item></channel>
 </rss>
