@@ -217,3 +217,7 @@
 2026-07-01T22:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-news-you-can-use-june-2026/ba-p/4532288
 2026-07-02T07:00:00 https://office365itpros.com/2026/07/02/external-chat-api
 2026-07-01T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/extend-data-security-to-the-network-with-microsoft-purview-and/ba-p/4531929
+2026-07-02T10:42:00 https://build5nines.com/big-thinkers-grace-hopper-the-origins-of-developer-productivity-and-software-abstraction
+2026-07-01T16:35:45 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/bring-business-logic-into-pim-role-activation-workflows/ba-p/4531380
+2026-07-01T16:32:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/protect-sensitive-data-in-motion-across-saas-and-ai-apps-with/ba-p/4529310
+2026-07-01T16:00:48 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/now-generally-available-serverless-posture-coverage-in-microsoft/ba-p/4532353
