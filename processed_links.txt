@@ -221,3 +221,4 @@
 2026-07-01T16:35:45 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/bring-business-logic-into-pim-role-activation-workflows/ba-p/4531380
 2026-07-01T16:32:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/protect-sensitive-data-in-motion-across-saas-and-ai-apps-with/ba-p/4529310
 2026-07-01T16:00:48 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/now-generally-available-serverless-posture-coverage-in-microsoft/ba-p/4532353
+2026-07-02T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-blog/unlock-more-value-from-your-data-with-microsoft-365-archive-and/ba-p/4531401
