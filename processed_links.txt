@@ -230,3 +230,4 @@
 2026-07-07T07:00:00 https://office365itpros.com/2026/07/07/calendar-agent-disappoints
 2026-07-07T12:07:00 https://build5nines.com/ai-helps-junior-developers-code-faster-this-prompt-helps-them-build-better
 2026-07-07T00:00:00 https://blog.icewolf.ch/archive/2026/07/07/azure-powershell-module-az-16-1-0-released
+2026-07-06T21:45:48 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-settings-backup-becoming-a-new-resilience-baseline/ba-p/4530757
