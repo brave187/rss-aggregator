@@ -234,3 +234,6 @@
 2026-07-08T07:00:00 https://office365itpros.com/2026/07/08/managers-and-direct-reports
 2026-07-07T21:34:53 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/govern-ai-agent-identities-and-access-the-same-way-you-govern/ba-p/4529302
 2026-07-08T13:08:33 https://techcommunity.microsoft.com/t5/exchange-team-blog/upcoming-retirement-of-owa-light-in-exchange-server/ba-p/4534943
+2026-07-08T17:54:32 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/rdp-multipath-with-redundant-tcp-is-now-generally-available-for/ba-p/4534610
+2026-07-08T16:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-365-for-agents-a-secured-execution-environment-for-ai/ba-p/4529336
+2026-07-08T15:03:27 https://techcommunity.microsoft.com/t5/microsoft-365-blog/built-for-business-how-microsoft-365-copilot-connects-the-tools/ba-p/4534980
