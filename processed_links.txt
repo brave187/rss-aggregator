@@ -239,3 +239,5 @@
 2026-07-08T15:03:27 https://techcommunity.microsoft.com/t5/microsoft-365-blog/built-for-business-how-microsoft-365-copilot-connects-the-tools/ba-p/4534980
 2026-07-08T13:08:36 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-now-integrates-with-dragos-forescout-armis/ba-p/4534936
 2026-07-09T07:00:00 https://office365itpros.com/2026/07/09/inactive-distribution-list-2026
+2026-07-09T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware
+2026-07-09T10:50:00 https://build5nines.com/big-thinkers-john-allspaw-how-human-centered-operations-shaped-modern-devops-and-reliability-engineering
