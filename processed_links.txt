@@ -237,3 +237,4 @@
 2026-07-08T17:54:32 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/rdp-multipath-with-redundant-tcp-is-now-generally-available-for/ba-p/4534610
 2026-07-08T16:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-365-for-agents-a-secured-execution-environment-for-ai/ba-p/4529336
 2026-07-08T15:03:27 https://techcommunity.microsoft.com/t5/microsoft-365-blog/built-for-business-how-microsoft-365-copilot-connects-the-tools/ba-p/4534980
+2026-07-08T13:08:36 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/microsoft-defender-now-integrates-with-dragos-forescout-armis/ba-p/4534936
