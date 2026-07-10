@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 10 Jul 2026 10:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:03:06 GMT</lastBuildDate>
     <item>
       <title>Extend Microsoft Purview data protection to AWS Bedrock agents for cross-cloud AI governance</title>
       <link>https://techcommunity.microsoft.com/t5/microsoft-purview-blog/extend-microsoft-purview-data-protection-to-aws-bedrock-agents/ba-p/4525984</link>
@@ -12,65 +12,7 @@
       <description>Organizations are moving fast with AI, and many of those AI workloads are not staying in one cloud. A team might use Microsoft 365 and Microsoft Purview for governance and in addition to Microsoft Foundry they may still choose to run an AI agent on AWS Bedrock or on the Google Cloud Platform. The technical challenge is straightforward: how do you keep one consistent set of data security, governance, and compliance controls when the agent itself runs outside Microsoft Azure?
 This is where Microsoft Purview becomes the central policy engine for your data estate. In this post, we show why that ma...</description>
     </item>
-    <item>
-      <title>What's new in Microsoft Teams | May 2026 - Build Edition</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-may-2026-build-edition/ba-p/4524613</link>
-      <pubDate>Tue, 09 Jun 2026 18:08:56 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-may-2026-build-edition/ba-p/4524613</guid>
-      <description>It's hard to believe May is over already! You may have noticed this edition of What's new in Teams is landing a few days later than usual &#8212; that's intentional. We're publishing alongside Microsoft Build, our annual developer conference where we showcase the latest in AI, agents, and the tools that help developers. It's one of the most energizing weeks of the year, full of announcements, hands-on sessions, and a first look at where the platform is headed. A lot of what's in this release ties directly to what's being unveiled on the Build stage, and I wanted to highlight a few Teams Platform fea...</description>
-    </item>
-    <item>
-      <title>Released: June 2026 Exchange Server Security Updates</title>
-      <link>https://techcommunity.microsoft.com/t5/exchange-team-blog/released-june-2026-exchange-server-security-updates/ba-p/4524491</link>
-      <pubDate>Tue, 09 Jun 2026 17:20:52 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/exchange-team-blog/released-june-2026-exchange-server-security-updates/ba-p/4524491</guid>
-      <description>NOTE: Our partners in documentation publishing notified us of an issue that is causing documentation on learn.microsoft.com domain to not show latest documentation version. The issue is being worked on.
-Microsoft has released Security Updates (SUs) for vulnerabilities found in:
-
-Exchange Server Subscription Edition (SE)
-Exchange Server 2019
-Exchange Server 2016
-
-SUs are available for the following specific versions of Exchange Server:
-
-Exchange SE RTM
-Exchange Server 2019&#160;CU14&#160;and&#160;CU15 (to access, organization must be enrolled into the Period 2 ESU program)
-Exchange Server 2016&#160;CU23 (to access...</description>
-    </item>
-    <item>
-      <title>Addressing Exchange Server May 2026 vulnerability CVE-2026-42897</title>
-      <link>https://techcommunity.microsoft.com/t5/exchange-team-blog/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/ba-p/4518498</link>
-      <pubDate>Tue, 09 Jun 2026 17:13:57 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/exchange-team-blog/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/ba-p/4518498</guid>
-      <description>UPDATE June 9, 2026: Please see our release blog post for June 2026 Security Update for more information on this CVE: Released: June 2026 Exchange Server Security Updates | Microsoft Community Hub.
-On May 14, 2026, Microsoft disclosed&#160;CVE-2026-42897, a reported vulnerability affecting Exchange Outlook Web Access (OWA). An attacker could exploit this issue by sending a specially crafted email to a user. If the user opens the email in Outlook Web Access and certain interaction conditions are met, arbitrary JavaScript can be executed in the browser context.
-The following on-premises Exchange Serv...</description>
-    </item>
-    <item>
-      <title>Level up your Azure Network Security Skills with our Upcoming Webinar Series</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-security-community/level-up-your-azure-network-security-skills-with-our-upcoming/ba-p/4525584</link>
-      <pubDate>Tue, 09 Jun 2026 17:09:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/level-up-your-azure-network-security-skills-with-our-upcoming/ba-p/4525584</guid>
-      <description>As network and application-layer threats continue to evolve, security and infrastructure teams need more than product knowledge. They need practical, scenario-driven guidance they can apply to real workloads. To support that, the Azure Network Security team is hosting a series of upcoming technical webinars covering the capabilities our customers rely on every day:&#160;Azure Web Application Firewall (WAF), Azure Firewall, Azure DDoS Protection and Azure Bastion.&#160;
-Each session is focused on demos, the latest enhancements, and the design and operational decisions you face when securing modern Azure ...</description>
-    </item>
-    <item>
-      <title>Microsoft Defender now monitors RPC activity</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-now-monitors-rpc-activity/ba-p/4523368</link>
-      <pubDate>Tue, 09 Jun 2026 16:55:28 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/microsoft-defender-now-monitors-rpc-activity/ba-p/4523368</guid>
-      <description>Remote procedure call (RPC) is a protocol commonly abused by attackers that allows functions implemented in a separate process, and potentially on a remote machine, to be called as if they were local. Many core Windows and Active Directory capabilities are built on or make use of RPC, which makes it an attractive target. To help protect against remote RPC-based attacks, Microsoft Defender now monitors remote RPC calls, disrupts malicious activity that leverages them, and surfaces relevant telemetry in advanced hunting.
-RPC basics
-While RPC is a rich and complicated protocol, the main component...</description>
-    </item>
-    <item>
-      <title>Elevate your telemetry using custom data collection in Microsoft Defender</title>
-      <link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/elevate-your-telemetry-using-custom-data-collection-in-microsoft/ba-p/4512530</link>
-      <pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/elevate-your-telemetry-using-custom-data-collection-in-microsoft/ba-p/4512530</guid>
-      <description>At Ignite in November, we announced that Microsoft Defender is now the only endpoint protection solution that allows data-hungry security teams to meet specific telemetry needs by optimizing their data collection right within the Defender portal, without the need to rely on fragmented and siloed solutions. Since then, we've heard from customers that this tool has been a game changer, enabling them to hunt through new data types as well as richer data on events already reported. The release of custom data collection was a key milestone in our ongoing journey to make Defender easy to manage and ...</description>
-    </item>
-  <item><title>ExchangeOnlineManagement 3.10.0 released</title><link>https://blog.icewolf.ch/archive/2026/06/10/exchangeonlinemanagement-3-10-0-released/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">https://blog.icewolf.ch/archive/2026/06/10/exchangeonlinemanagement-3-10-0-released/</guid><description>Hi All,
+    <item><title>ExchangeOnlineManagement 3.10.0 released</title><link>https://blog.icewolf.ch/archive/2026/06/10/exchangeonlinemanagement-3-10-0-released/</link><pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">https://blog.icewolf.ch/archive/2026/06/10/exchangeonlinemanagement-3-10-0-released/</guid><description>Hi All,
 A day ago, Microsoft has released a new Version of ExchangeOnlineManagement PowerShell Module</description></item><item><title>Restricting Access is The Most Important Step in a Microsoft 365 Copilot Deployment</title><link>https://office365itpros.com/2026/06/10/microsoft-365-copilot-prep/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-365-copilot-prep</link><pubDate>Wed, 10 Jun 2026 07:00:00 +0000</pubDate><guid isPermaLink="false">https://office365itpros.com/?p=73801</guid><description>I was asked what the most important step is in the deployment of Microsoft 365 Copilot. It's a good question. Put simply, restricted access is the answer. That is, restricting Copilot access to information stored in Microsoft 365 locations until your tenant is ready for unrestricted Copilot search and retrieval. The fortunate thing is that tools exist today to make it relatively easy to establish guardrails for Copilot, which is exactly what you need to do....</description></item><item><title>Introducing scheduled antivirus scans on Microsoft Defender Linux</title><link>https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-scheduled-antivirus-scans-on-microsoft-defender/ba-p/4524578</link><pubDate>Wed, 10 Jun 2026 16:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/introducing-scheduled-antivirus-scans-on-microsoft-defender/ba-p/4524578</guid><description>Security teams rely on scheduled scans to ensure consistent coverage across devices, detect dormant or missed threats, and meet compliance requirements. However, managing scans on Linux has traditionally required custom scripts and cron-based setups, which can be hard to scale and maintain. That&#8217;s why we&#8217;re excited to introduce centrally managed scheduled antivirus scans for Linux in Microsoft Defender, now available in public preview. With this release, we are bringing built-in, flexible scheduling capabilities directly into Defender - making it easier to manage and standardize scan behaviour...</description></item><item><title>New Exchange Online Mailbox Auditing Signal: Visibility into IPM to Non-IPM Copy Activity</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/new-exchange-online-mailbox-auditing-signal-visibility-into-ipm/ba-p/4526914</link><pubDate>Wed, 10 Jun 2026 15:00:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/new-exchange-online-mailbox-auditing-signal-visibility-into-ipm/ba-p/4526914</guid><description>Background: IPM vs. Non-IPM Subtree
 Every Exchange Online mailbox is organized into two parts:
 
