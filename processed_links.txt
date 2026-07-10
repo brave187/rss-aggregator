@@ -243,3 +243,6 @@
 2026-07-09T10:50:00 https://build5nines.com/big-thinkers-john-allspaw-how-human-centered-operations-shaped-modern-devops-and-reliability-engineering
 2026-07-09T17:06:11 https://techcommunity.microsoft.com/t5/intune-customer-success/build-a-patch-strategy-for-today-s-threat-pace-with-microsoft/ba-p/4535115
 2026-07-09T16:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/understanding-windows-monthly-updates-servicing-explained/ba-p/4532290
+2026-07-10T07:00:00 https://office365itpros.com/2026/07/10/m365mutator-test-data
+2026-07-10T00:00:00 https://blog.icewolf.ch/archive/2026/07/10/pnp-powershell-3-3-0-released
+2026-07-09T18:07:27 https://techcommunity.microsoft.com/t5/azure-network-security-blog/secure-native-access-to-azure-kubernetes-service-aks-private/ba-p/4535123
