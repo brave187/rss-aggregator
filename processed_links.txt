@@ -247,3 +247,4 @@
 2026-07-10T00:00:00 https://blog.icewolf.ch/archive/2026/07/10/pnp-powershell-3-3-0-released
 2026-07-09T18:07:27 https://techcommunity.microsoft.com/t5/azure-network-security-blog/secure-native-access-to-azure-kubernetes-service-aks-private/ba-p/4535123
 2026-07-10T15:38:58 https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-message-recall-in-exchange-online/ba-p/4535800
+2026-07-13T07:00:00 https://office365itpros.com/2026/07/13/find-obsolete-sites
