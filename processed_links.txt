@@ -257,3 +257,6 @@
 2026-07-15T07:00:00 https://office365itpros.com/2026/07/15/cross-tenant-message-recall
 2026-07-15T00:00:00 https://blog.icewolf.ch/archive/2026/07/15/exchange-server-SE-SU8-has-been-released
 2026-07-14T16:42:42 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/hunting-local-ai-tools-on-macos-with-microsoft-defender-for/ba-p/4536965
+2026-07-16T01:36:21 https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery
+2026-07-15T22:43:03 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/now-available-admin-control-for-sso-prompts-in-windows/ba-p/4534613
+2026-07-15T13:41:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-solution-optimization-for-github-copilot/ba-p/4536886
