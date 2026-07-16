@@ -261,3 +261,5 @@
 2026-07-15T22:43:03 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/now-available-admin-control-for-sso-prompts-in-windows/ba-p/4534613
 2026-07-15T13:41:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-solution-optimization-for-github-copilot/ba-p/4536886
 2026-07-16T07:00:00 https://office365itpros.com/2026/07/16/schedule-teams-meeting-shared-mbx
+2026-07-15T18:16:41 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-are-everywhere-are-your-access-controls-ready/ba-p/4531379
+2026-07-15T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/announcing-the-asim-parser-creation-agentic-experience/ba-p/4532266
