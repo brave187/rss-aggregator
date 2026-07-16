@@ -260,3 +260,4 @@
 2026-07-16T01:36:21 https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery
 2026-07-15T22:43:03 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/now-available-admin-control-for-sso-prompts-in-windows/ba-p/4534613
 2026-07-15T13:41:27 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/customer-offerings-solution-optimization-for-github-copilot/ba-p/4536886
+2026-07-16T07:00:00 https://office365itpros.com/2026/07/16/schedule-teams-meeting-shared-mbx
