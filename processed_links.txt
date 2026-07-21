@@ -267,3 +267,4 @@
 2026-07-16T23:12:02 https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity
 2026-07-17T07:00:00 https://office365itpros.com/2026/07/17/owa-light-retirement
 2026-07-20T07:00:00 https://office365itpros.com/2026/07/20/user-assigned-managed-identity
+2026-07-20T17:18:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/plan-your-azure-ad-b2c-migration-with-the-migration-policy/ba-p/4532874
