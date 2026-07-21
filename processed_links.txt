@@ -268,3 +268,7 @@
 2026-07-17T07:00:00 https://office365itpros.com/2026/07/17/owa-light-retirement
 2026-07-20T07:00:00 https://office365itpros.com/2026/07/20/user-assigned-managed-identity
 2026-07-20T17:18:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/plan-your-azure-ad-b2c-migration-with-the-migration-policy/ba-p/4532874
+2026-07-21T07:00:00 https://office365itpros.com/2026/07/21/json-batching-primer
+2026-07-21T00:00:00 https://blog.icewolf.ch/archive/2026/07/21/microsoftteams-powershell-module-7-9-0-released
+2026-07-20T21:26:12 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/secure-ai-web-and-private-apps-with-zero-trust/ba-p/4516387
+2026-07-20T18:10:45 https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033
