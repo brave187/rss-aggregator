@@ -274,3 +274,5 @@
 2026-07-20T18:10:45 https://techcommunity.microsoft.com/t5/exchange-team-blog/reminder-exchange-2016-and-2019-esu-program-ends-in-october-2026/ba-p/4539033
 2026-07-21T00:00:00 https://blog.icewolf.ch/archive/2026/07/21/powershell-7-6-4-released
 2026-07-21T17:58:43 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-enhances-security-of-branded-sign-ins/ba-p/4537471
+2026-07-22T07:00:59 https://office365itpros.com/2026/07/22/block-sharing-dlp-sharepoint
+2026-07-22T00:00:00 https://blog.icewolf.ch/archive/2026/07/22/azure-storage-explorer-1-44-0
