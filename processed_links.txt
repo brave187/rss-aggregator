@@ -276,3 +276,4 @@
 2026-07-21T17:58:43 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-id-enhances-security-of-branded-sign-ins/ba-p/4537471
 2026-07-22T07:00:59 https://office365itpros.com/2026/07/22/block-sharing-dlp-sharepoint
 2026-07-22T00:00:00 https://blog.icewolf.ch/archive/2026/07/22/azure-storage-explorer-1-44-0
+2026-07-22T18:50:10 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/defending-the-inbox-against-prompt-injection-attacks/ba-p/4534636
