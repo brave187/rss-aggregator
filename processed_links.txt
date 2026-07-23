@@ -279,3 +279,4 @@
 2026-07-22T18:50:10 https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/defending-the-inbox-against-prompt-injection-attacks/ba-p/4534636
 2026-07-23T07:00:00 https://office365itpros.com/2026/07/23/permissions-creep-sdk
 2026-07-22T16:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/strengthening-key-management-service-kms-with-hardware-based/ba-p/4539465
+2026-07-23T12:00:00 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/should-you-use-the-new-microsoft-entra-tenant-governance-or/ba-p/4532297
