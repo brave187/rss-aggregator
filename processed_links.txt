@@ -283,3 +283,6 @@
 2026-07-23T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights
 2026-07-24T07:00:00 https://office365itpros.com/2026/07/24/federated-chat-controls
 2026-07-23T16:59:40 https://techcommunity.microsoft.com/t5/intune-customer-success/designing-intune-enrollment-for-frontline-workers-choosing-the/ba-p/4540144
+2026-07-24T00:00:00 https://blog.icewolf.ch/archive/2026/07/24/azure-upgrade-storageaccount-to-general-purpose-v2
+2026-07-23T15:40:21 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-lighthouse-bring-your-partner-in-without-letting-their/ba-p/4529852
+2026-07-23T15:37:20 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-microsoft-365-copilot-risk-surface-and-mitigations/ba-p/4538712
