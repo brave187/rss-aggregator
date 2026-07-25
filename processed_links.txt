@@ -287,3 +287,4 @@
 2026-07-23T15:40:21 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-lighthouse-bring-your-partner-in-without-letting-their/ba-p/4529852
 2026-07-23T15:37:20 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/understanding-microsoft-365-copilot-risk-surface-and-mitigations/ba-p/4538712
 2026-07-24T16:24:35 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-smarter-bot-protection-in-microsoft-teams-meetings/ba-p/4531375
+2026-07-24T19:07:28 https://techcommunity.microsoft.com/t5/intune-customer-success/from-hours-to-minutes-rethinking-microsoft-intune-compliance/ba-p/4540554
