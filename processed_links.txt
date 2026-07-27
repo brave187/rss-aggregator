@@ -290,3 +290,5 @@
 2026-07-24T19:07:28 https://techcommunity.microsoft.com/t5/intune-customer-success/from-hours-to-minutes-rethinking-microsoft-intune-compliance/ba-p/4540554
 2026-07-24T17:54:07 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/modernize-sap-identity-management-with-microsoft-entra/ba-p/4528596
 2026-07-24T17:47:47 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-july-2026/ba-p/4534631
+2026-07-27T07:00:00 https://office365itpros.com/2026/07/27/exchange-online-management-3-10-1
+2026-07-27T00:00:00 https://blog.icewolf.ch/archive/2026/07/27/exchangeonlinemanagement-3-10-1-released
