@@ -299,3 +299,5 @@
 2026-07-28T22:03:17 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/what-s-new-in-microsoft-intune-july/ba-p/4537392
 2026-07-29T07:00:00 https://office365itpros.com/2026/07/29/dlp-external-email-copilot
 2026-07-28T20:59:27 https://techcommunity.microsoft.com/t5/intune-customer-success/registry-inventory-in-microsoft-intune-verifying-what-s-on-your/ba-p/4541312
+2026-07-29T16:57:47 https://techcommunity.microsoft.com/t5/azure-tools-blog/terraform-azurerm-provider-5-0-now-generally-available/ba-p/4542085
+2026-07-29T16:03:20 https://techcommunity.microsoft.com/t5/microsoft-365-blog/start-ingesting-assistant-data-into-microsoft-365-with-supported/ba-p/4541260
