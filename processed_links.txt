@@ -302,3 +302,4 @@
 2026-07-29T16:57:47 https://techcommunity.microsoft.com/t5/azure-tools-blog/terraform-azurerm-provider-5-0-now-generally-available/ba-p/4542085
 2026-07-29T16:03:20 https://techcommunity.microsoft.com/t5/microsoft-365-blog/start-ingesting-assistant-data-into-microsoft-365-with-supported/ba-p/4541260
 2026-07-30T00:34:28 https://office365itpros.com/2026/07/30/fy26-q4-microsoft-results
+2026-07-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/mdti-convergence-in-microsoft-sentinel-and-defender-xdr-is/ba-p/4541279
