@@ -306,3 +306,4 @@
 2026-07-30T18:45:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/built-to-protect-the-architecture-behind-codename-mdash/ba-p/4541662
 2026-07-31T07:00:00 https://office365itpros.com/2026/07/31/microsoft-365-too-complex
 2026-07-31T00:00:00 https://blog.icewolf.ch/archive/2026/07/31/teams-phone-agent-public-preview
+2026-07-31T00:00:00 https://blog.icewolf.ch/archive/2026/07/31/microsoft-teams-engineering-tools
