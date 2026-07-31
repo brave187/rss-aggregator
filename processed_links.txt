@@ -307,3 +307,4 @@
 2026-07-31T07:00:00 https://office365itpros.com/2026/07/31/microsoft-365-too-complex
 2026-07-31T00:00:00 https://blog.icewolf.ch/archive/2026/07/31/teams-phone-agent-public-preview
 2026-07-31T00:00:00 https://blog.icewolf.ch/archive/2026/07/31/microsoft-teams-engineering-tools
+2026-07-31T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510
