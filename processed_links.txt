@@ -308,3 +308,4 @@
 2026-07-31T00:00:00 https://blog.icewolf.ch/archive/2026/07/31/teams-phone-agent-public-preview
 2026-07-31T00:00:00 https://blog.icewolf.ch/archive/2026/07/31/microsoft-teams-engineering-tools
 2026-07-31T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-july-2026/ba-p/4542510
+2026-07-31T21:01:37 https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft
