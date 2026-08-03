@@ -316,3 +316,4 @@
 2026-08-02T00:00:00 https://blog.icewolf.ch/archive/2026/08/02/microsoft-introduces-MAI-image-2-5-pro-and-MAI-voice-2-flash
 2026-08-03T07:00:00 https://office365itpros.com/2026/08/03/blocking-for-nested-security-groups
 2026-08-03T00:00:00 https://blog.icewolf.ch/archive/2026/08/03/move-azure-arc-servers-to-a-diffrent-subscription
+2026-08-03T19:24:31 https://levelupm365.com/2026/08/03/podcast-21-create-a-second-brain-with-copilot-notebooks
