@@ -327,3 +327,4 @@
 2026-08-03T21:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-news-you-can-use-july-2026/ba-p/4543588
 2026-08-03T19:03:30 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-august-2026/ba-p/4543597
 2026-08-03T18:52:36 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2026/ba-p/4515907
+2026-08-04T00:00:00 https://blog.icewolf.ch/archive/2026/08/04/powershell-module-microsoft-online-sharepoint-powershell-16-0-27515-12000
