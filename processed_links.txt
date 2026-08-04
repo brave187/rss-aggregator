@@ -324,3 +324,6 @@
 2026-08-03T15:46:27 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-by-default-trusted-launch-as-default-is-now-generally/ba-p/4541672
 2026-08-03T14:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/why-ai-agents-may-require-a-new-security-operations-model/ba-p/4542532
 2026-08-03T13:35:39 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-ai-experiments-to-digital-workforce-do-enterprises-need-a/ba-p/4542520
+2026-08-03T21:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-news-you-can-use-july-2026/ba-p/4543588
+2026-08-03T19:03:30 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-august-2026/ba-p/4543597
+2026-08-03T18:52:36 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2026/ba-p/4515907
