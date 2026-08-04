@@ -318,3 +318,9 @@
 2026-08-03T00:00:00 https://blog.icewolf.ch/archive/2026/08/03/move-azure-arc-servers-to-a-diffrent-subscription
 2026-08-03T19:24:31 https://levelupm365.com/2026/08/03/podcast-21-create-a-second-brain-with-copilot-notebooks
 2026-08-03T12:58:46 https://techcommunity.microsoft.com/t5/exchange-team-blog/writeback-for-cloud-managed-remote-mailboxes-now-generally/ba-p/4543507
+2026-08-04T07:00:32 https://office365itpros.com/2026/08/04/microsoft-defender-prompt-injection
+2026-08-04T00:00:00 https://blog.icewolf.ch/archive/2026/08/04/AI-generated-images-contains-C2PA-manifest
+2026-08-04T00:00:00 https://blog.icewolf.ch/archive/2026/08/04/microsoft-graph-powershell-modules-2-39-0-released
+2026-08-03T15:46:27 https://techcommunity.microsoft.com/t5/microsoft-security-community/secure-by-default-trusted-launch-as-default-is-now-generally/ba-p/4541672
+2026-08-03T14:30:00 https://techcommunity.microsoft.com/t5/microsoft-security-community/why-ai-agents-may-require-a-new-security-operations-model/ba-p/4542532
+2026-08-03T13:35:39 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-ai-experiments-to-digital-workforce-do-enterprises-need-a/ba-p/4542520
