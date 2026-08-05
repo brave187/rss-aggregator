@@ -328,3 +328,4 @@
 2026-08-03T19:03:30 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-august-2026/ba-p/4543597
 2026-08-03T18:52:36 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-april-2026/ba-p/4515907
 2026-08-04T00:00:00 https://blog.icewolf.ch/archive/2026/08/04/powershell-module-microsoft-online-sharepoint-powershell-16-0-27515-12000
+2026-08-04T23:46:41 https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm
