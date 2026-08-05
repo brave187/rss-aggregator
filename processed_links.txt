@@ -331,3 +331,4 @@
 2026-08-04T23:46:41 https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm
 2026-08-05T07:00:00 https://office365itpros.com/2026/08/05/restricted-content-discovery-2
 2026-08-05T00:00:00 https://blog.icewolf.ch/archive/2026/08/05/azure-powershell-module-az-16-2-0-released
+2026-08-05T15:48:39 https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide
