@@ -342,3 +342,4 @@
 2026-08-06T00:00:00 https://blog.icewolf.ch/archive/2026/08/06/azure-automation-updates-july-2026
 2026-08-07T07:00:00 https://office365itpros.com/2026/08/07/memberof-rule-operator
 2026-08-06T19:23:30 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-is-named-a-leader-in-2026-gartner-magic-quadrant-for/ba-p/4544411
+2026-08-07T19:19:23 https://techcommunity.microsoft.com/t5/exchange-team-blog/cross-tenant-free-busy-mailtips-and-calendar-sharing-are-moving/ba-p/4545169
