@@ -346,3 +346,4 @@
 2026-08-08T00:00:00 https://blog.icewolf.ch/archive/2026/08/08/Microsoft.PowerShell.Archive-1-2-6-released
 2026-08-07T20:14:53 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/smarter-signals-broader-coverage-ueba-anomalies-on-top-of/ba-p/4544384
 2026-08-07T19:28:40 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-playbook-generator-now-available-to-more-customers/ba-p/4544385
+2026-08-10T07:00:00 https://office365itpros.com/2026/08/10/invoke-changemeetingorganizer-bulk
