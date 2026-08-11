@@ -349,3 +349,5 @@
 2026-08-10T07:00:00 https://office365itpros.com/2026/08/10/invoke-changemeetingorganizer-bulk
 2026-08-10T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure
 2026-08-11T07:00:00 https://office365itpros.com/2026/08/11/open-tasks-report
+2026-08-10T18:47:52 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/microsoft-entra-tenant-governance-is-now-generally-available/ba-p/4543638
+2026-08-10T17:44:28 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-august-2026/ba-p/4545172
