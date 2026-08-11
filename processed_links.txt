@@ -348,3 +348,4 @@
 2026-08-07T19:28:40 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ai-powered-playbook-generator-now-available-to-more-customers/ba-p/4544385
 2026-08-10T07:00:00 https://office365itpros.com/2026/08/10/invoke-changemeetingorganizer-bulk
 2026-08-10T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure
+2026-08-11T07:00:00 https://office365itpros.com/2026/08/11/open-tasks-report
