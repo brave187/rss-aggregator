@@ -355,3 +355,4 @@
 2026-08-11T17:06:02 https://techcommunity.microsoft.com/t5/exchange-team-blog/released-august-2026-exchange-server-security-updates/ba-p/4543951
 2026-08-11T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/building-microsoft-sentinel-connectors-in-minutes-with-the/ba-p/4544378
 2026-08-11T15:59:45 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-meetings-into-momentum-with-microsoft-365-copilot/ba-p/4545675
+2026-08-12T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/how-to-enforce-zero-trust-across-every-resource/ba-p/4529305
