@@ -3,11 +3,8 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 14 Aug 2026 13:59:15 GMT</lastBuildDate>
-    <item><title>What's New in PowerPoint Craft</title><link>https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-in-powerpoint-craft/ba-p/4535409</link><pubDate>Tue, 14 Jul 2026 14:26:36 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-in-powerpoint-craft/ba-p/4535409</guid><description>The PowerPoint team is modernizing the creation experience to help you build polished presentations with less friction. Over the past several months, we&#8217;ve focused on updates you can use directly&#8212;new SmartArt layouts, fresh themes, and a simpler Design ribbon&#8212;alongside improvements that make opening files feel clearer and more reliable.
-1. New SmartArt for Modern Storytelling
-What&#8217;s new
-We&#8217;ve shipped 13 new SmartArt layouts, including timelines, lists, and &#8220;Meet the Team&#8221; designs, with more layouts rolling out very soon. These updates make it easier to turn information into polished visuals di...</description></item><item><title>Released: July 2026 Exchange Server Security Updates</title><link>https://techcommunity.microsoft.com/t5/exchange-team-blog/released-july-2026-exchange-server-security-updates/ba-p/4534146</link><pubDate>Tue, 14 Jul 2026 19:53:34 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/exchange-team-blog/released-july-2026-exchange-server-security-updates/ba-p/4534146</guid><description>Microsoft has released Security Updates (SUs) for vulnerabilities found in:
+    <lastBuildDate>Fri, 14 Aug 2026 19:33:50 GMT</lastBuildDate>
+    <item><title>Released: July 2026 Exchange Server Security Updates</title><link>https://techcommunity.microsoft.com/t5/exchange-team-blog/released-july-2026-exchange-server-security-updates/ba-p/4534146</link><pubDate>Tue, 14 Jul 2026 19:53:34 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/exchange-team-blog/released-july-2026-exchange-server-security-updates/ba-p/4534146</guid><description>Microsoft has released Security Updates (SUs) for vulnerabilities found in:
 
 Exchange Server Subscription Edition (SE)
 Exchange Server 2019
