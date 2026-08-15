@@ -362,3 +362,4 @@
 2026-08-13T22:36:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-device-recovery-in-2026-a-guide-for-it-pros/ba-p/4541207
 2026-08-14T07:00:00 https://office365itpros.com/2026/08/14/external-services-dlp
 2026-08-13T21:05:31 https://techcommunity.microsoft.com/t5/exchange-team-blog/where-is-exchange-se-cu1-anyway/ba-p/4546837
+2026-08-15T00:00:00 https://blog.icewolf.ch/archive/2026/08/15/powershell-7-6-5-released
