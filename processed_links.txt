@@ -367,3 +367,4 @@
 2026-08-17T00:00:00 https://blog.icewolf.ch/archive/2026/08/17/exchange-server-SE-SU9-has-been-released
 2026-08-18T07:00:00 https://office365itpros.com/2026/08/18/find-entra-p1-accounts-to-license
 2026-08-18T16:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/collecting-delivery-optimization-logs-the-easy-way/ba-p/4547884
+2026-08-19T07:00:00 https://office365itpros.com/2026/08/19/clean-up-planner-tasks
