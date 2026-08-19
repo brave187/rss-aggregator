@@ -370,3 +370,4 @@
 2026-08-19T07:00:00 https://office365itpros.com/2026/08/19/clean-up-planner-tasks
 2026-08-19T04:30:00 https://techcommunity.microsoft.com/t5/azure-tools-blog/building-a-fully-automated-azure-landing-zone-deployment-using/ba-p/4547956
 2026-08-18T22:01:39 https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592
+2026-08-19T16:05:51 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/task-manager-features-for-visibility-into-ai-workloads/ba-p/4545150
