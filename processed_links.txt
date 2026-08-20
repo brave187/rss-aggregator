@@ -371,3 +371,4 @@
 2026-08-19T04:30:00 https://techcommunity.microsoft.com/t5/azure-tools-blog/building-a-fully-automated-azure-landing-zone-deployment-using/ba-p/4547956
 2026-08-18T22:01:39 https://techcommunity.microsoft.com/t5/intune-customer-success/configure-delivery-optimization-for-windows-to-save-bandwidth/ba-p/4547592
 2026-08-19T16:05:51 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/task-manager-features-for-visibility-into-ai-workloads/ba-p/4545150
+2026-08-19T20:25:03 https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-the-new-100-gb-mailbox-entitlement-for-microsoft/ba-p/4548243
