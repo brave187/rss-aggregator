@@ -373,3 +373,4 @@
 2026-08-19T16:05:51 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/task-manager-features-for-visibility-into-ai-workloads/ba-p/4545150
 2026-08-19T20:25:03 https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-the-new-100-gb-mailbox-entitlement-for-microsoft/ba-p/4548243
 2026-08-20T00:00:00 https://blog.icewolf.ch/archive/2026/08/20/pnp-powershell-3-4-0-released
+2026-08-20T07:00:00 https://office365itpros.com/2026/08/20/microsoft-365-archive-retention
