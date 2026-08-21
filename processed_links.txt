@@ -375,3 +375,4 @@
 2026-08-20T00:00:00 https://blog.icewolf.ch/archive/2026/08/20/pnp-powershell-3-4-0-released
 2026-08-20T07:00:00 https://office365itpros.com/2026/08/20/microsoft-365-archive-retention
 2026-08-20T14:21:26 https://techcommunity.microsoft.com/t5/exchange-team-blog/notes-from-the-field-testing-ewsallowedappids-safely/ba-p/4548568
+2026-08-21T07:00:00 https://office365itpros.com/2026/08/21/100-gb-mailbox-quota-m365-business
