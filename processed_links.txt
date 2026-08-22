@@ -376,3 +376,5 @@
 2026-08-20T07:00:00 https://office365itpros.com/2026/08/20/microsoft-365-archive-retention
 2026-08-20T14:21:26 https://techcommunity.microsoft.com/t5/exchange-team-blog/notes-from-the-field-testing-ewsallowedappids-safely/ba-p/4548568
 2026-08-21T07:00:00 https://office365itpros.com/2026/08/21/100-gb-mailbox-quota-m365-business
+2026-08-21T17:00:33 https://techcommunity.microsoft.com/t5/microsoft-365-blog/10-things-to-know-before-enabling-microsoft-365-backup/ba-p/4529275
+2026-08-21T16:26:22 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305
