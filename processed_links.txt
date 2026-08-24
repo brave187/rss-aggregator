@@ -380,3 +380,5 @@
 2026-08-21T16:26:22 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305
 2026-08-21T21:53:41 https://techcommunity.microsoft.com/t5/intune-customer-success/support-tip-restore-the-managed-home-screen-exit-pin/ba-p/4549102
 2026-08-24T07:00:00 https://office365itpros.com/2026/08/24/teams-meeting-notetaking-bots
+2026-08-24T16:57:31 https://techcommunity.microsoft.com/t5/exchange-team-blog/help-us-shape-exchange-server-on-premises-to-different-online/ba-p/4549691
+2026-08-24T00:00:00 https://blog.icewolf.ch/archive/2026/08/24/jabra-direct-update-august-2026
