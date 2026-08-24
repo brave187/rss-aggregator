@@ -379,3 +379,4 @@
 2026-08-21T17:00:33 https://techcommunity.microsoft.com/t5/microsoft-365-blog/10-things-to-know-before-enabling-microsoft-365-backup/ba-p/4529275
 2026-08-21T16:26:22 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/turn-conversations-into-code-with-github-copilot-in-microsoft/ba-p/4548305
 2026-08-21T21:53:41 https://techcommunity.microsoft.com/t5/intune-customer-success/support-tip-restore-the-managed-home-screen-exit-pin/ba-p/4549102
+2026-08-24T07:00:00 https://office365itpros.com/2026/08/24/teams-meeting-notetaking-bots
