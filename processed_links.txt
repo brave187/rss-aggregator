@@ -386,3 +386,4 @@
 2026-08-25T07:00:00 https://office365itpros.com/2026/08/25/teams-meeting-transfer
 2026-08-25T00:00:00 https://blog.icewolf.ch/archive/2026/08/25/mscommerce-powershell-module-3-0-1-released
 2026-08-24T17:04:23 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unified-ai-defense-security-copilot-project-perception-and-mdash/ba-p/4547124
+2026-08-25T10:50:22 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-baseline-for-microsoft-edge-version-151/ba-p/4549607
