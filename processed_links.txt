@@ -391,3 +391,4 @@
 2026-08-26T07:00:00 https://office365itpros.com/2026/08/26/granular-graph-permissions-question
 2026-08-25T16:39:03 https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772
 2026-08-27T07:00:00 https://office365itpros.com/2026/08/27/loop-workspace-big-container
+2026-08-27T17:45:28 https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939
