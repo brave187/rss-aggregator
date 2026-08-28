@@ -392,3 +392,7 @@
 2026-08-25T16:39:03 https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772
 2026-08-27T07:00:00 https://office365itpros.com/2026/08/27/loop-workspace-big-container
 2026-08-27T17:45:28 https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939
+2026-08-28T07:00:00 https://office365itpros.com/2026/08/28/interactive-graph-sessions-wam
+2026-08-28T00:00:00 https://blog.icewolf.ch/archive/2026/08/28/powershell-module-microsoft-online-sharepoint-powershell-16-0-27612-12000
+2026-08-27T18:06:32 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/what-s-new-in-microsoft-intune-august/ba-p/4537393
+2026-08-27T15:00:00 https://techcommunity.microsoft.com/t5/intune-customer-success/introducing-device-association-for-windows-autopilot-device/ba-p/4550603
