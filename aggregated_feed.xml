@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 28 Aug 2026 12:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:36:01 GMT</lastBuildDate>
     <item><title>What&#8217;s new in Microsoft Intune &#8211; July</title><link>https://techcommunity.microsoft.com/t5/microsoft-intune-blog/what-s-new-in-microsoft-intune-july/ba-p/4537392</link><pubDate>Wed, 29 Jul 2026 03:53:43 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-intune-blog/what-s-new-in-microsoft-intune-july/ba-p/4537392</guid><description>Ask an IT admin what a good day looks like, and it usually comes down to one word: control. Control means you push a change and know it landed. It means you have a clear view into your device fleet, from compliance status to sync health. That certainty is what helps IT stay ahead and deliver.
 Still, endpoint management gets harder as fleets grow across locations and device types. More devices and policies rarely mean fewer admin hours. This month's updates focus on giving IT clearer visibility and more confident action.
 Demystify Windows device sync status
@@ -223,5 +223,9 @@ Establish trust during provisioning, before enrollment
 Windows Autopilot device association is now generally available. Device...</description></item><item><title>Introducing device association for Windows Autopilot device preparation</title><link>https://techcommunity.microsoft.com/t5/intune-customer-success/introducing-device-association-for-windows-autopilot-device/ba-p/4550603</link><pubDate>Fri, 28 Aug 2026 12:12:44 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/intune-customer-success/introducing-device-association-for-windows-autopilot-device/ba-p/4550603</guid><description>By: Maggie Dakeva, Senior Product Manager - Microsoft Intune
 We&#8217;ve heard organizations want Windows deployment to be simple for employees and predictable for IT admins. But before a device enrolls, how does the organization know that the device is really one of its own - and how can IT make sure the right experience and policy reach that device regardless of who signs in?
 Today, we're announcing device association for Windows Autopilot device preparation, a new way to bind a physical Windows 11 device to your organization before enrollment begins.
-Device association uses hardware-backed attest...</description></item></channel>
+Device association uses hardware-backed attest...</description></item><item><title>Security Review for Microsoft Edge version 152</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-152/ba-p/4550956</link><pubDate>Fri, 28 Aug 2026 22:36:01 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-152/ba-p/4550956</guid><description>We have reviewed the new settings in Microsoft Edge version 152 and determined that there are no additional security settings that require enforcement. The Microsoft Edge version 151 security baseline continues to be our recommended configuration which can be downloaded from the Microsoft Security Compliance Toolkit.
+&#160;
+Microsoft Edge version 152 introduced 4 new Computer and User settings; we have included a spreadsheet listing the new settings to make it easier for you to find.
+&#160;
+Starting with version 152 Microsoft Edge is moving to a more frequent release cycle. To better align with the need...</description></item></channel>
 </rss>

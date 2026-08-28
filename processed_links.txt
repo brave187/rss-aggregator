@@ -396,3 +396,4 @@
 2026-08-28T00:00:00 https://blog.icewolf.ch/archive/2026/08/28/powershell-module-microsoft-online-sharepoint-powershell-16-0-27612-12000
 2026-08-27T18:06:32 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/what-s-new-in-microsoft-intune-august/ba-p/4537393
 2026-08-27T15:00:00 https://techcommunity.microsoft.com/t5/intune-customer-success/introducing-device-association-for-windows-autopilot-device/ba-p/4550603
+2026-08-28T21:22:52 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-152/ba-p/4550956
