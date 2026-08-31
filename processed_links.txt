@@ -398,3 +398,4 @@
 2026-08-27T15:00:00 https://techcommunity.microsoft.com/t5/intune-customer-success/introducing-device-association-for-windows-autopilot-device/ba-p/4550603
 2026-08-28T21:22:52 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-152/ba-p/4550956
 2026-08-29T03:43:27 https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion
+2026-08-31T07:00:00 https://office365itpros.com/2026/08/31/new-graph-permissions-check
