@@ -414,3 +414,4 @@
 2026-09-02T07:00:00 https://office365itpros.com/2026/09/02/moera-only-tenants-external-collab
 2026-09-02T00:00:00 https://blog.icewolf.ch/archive/2026/09/02/azure-storage-explorer-1-46-0
 2026-09-02T00:00:00 https://blog.icewolf.ch/archive/2026/09/02/powershell-v7-7-0-preview4-has-been-released
+2026-09-02T06:16:45 https://techcommunity.microsoft.com/t5/azure-tools-blog/azure-key-vault-control-plane-api-update-required-upgrade-for/ba-p/4552476
