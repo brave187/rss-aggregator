@@ -416,3 +416,5 @@
 2026-09-02T00:00:00 https://blog.icewolf.ch/archive/2026/09/02/powershell-v7-7-0-preview4-has-been-released
 2026-09-02T06:16:45 https://techcommunity.microsoft.com/t5/azure-tools-blog/azure-key-vault-control-plane-api-update-required-upgrade-for/ba-p/4552476
 2026-09-02T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-viva-glint-apis-for-survey-data-export-and-visier/ba-p/4547896
+2026-09-02T22:51:18 https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access
+2026-09-02T21:22:37 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-news-you-can-use-august-2026/ba-p/4552394
