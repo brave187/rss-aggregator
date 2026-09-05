@@ -424,3 +424,4 @@
 2026-09-03T16:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion
 2026-09-04T07:00:00 https://office365itpros.com/2026/09/04/microsoft-copilot-in-2026
 2026-09-03T18:40:59 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-rooms-platform-choice-delivers-flexibility-for/ba-p/4552748
+2026-09-04T17:05:32 https://techcommunity.microsoft.com/t5/microsoft-security-community/help-shape-the-microsoft-security-practitioner-community/ba-p/4553560
