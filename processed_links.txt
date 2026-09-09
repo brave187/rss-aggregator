@@ -429,3 +429,5 @@
 2026-09-07T07:00:00 https://office365itpros.com/2026/09/07/classic-outlook-style
 2026-09-08T07:00:00 https://office365itpros.com/2026/09/08/continuous-access-evaluation-cae
 2026-09-08T00:00:00 https://blog.icewolf.ch/archive/2026/09/08/entra-security-hardening-hard-matching-disabled
+2026-09-08T20:40:02 https://techcommunity.microsoft.com/t5/exchange-team-blog/released-september-2026-exchange-server-security-updates/ba-p/4554411
+2026-09-08T14:14:41 https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-ad-fs-modern-authentication-expanded-outlook/ba-p/4554410
