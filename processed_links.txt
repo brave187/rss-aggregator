@@ -434,3 +434,4 @@
 2026-09-09T07:00:00 https://office365itpros.com/2026/09/09/group-mailbox-graph-api
 2026-09-09T00:00:00 https://blog.icewolf.ch/archive/2026/09/09/exchange-server-SE-SU10-has-been-released
 2026-09-09T00:00:00 https://blog.icewolf.ch/archive/2026/09/09/powershell-7-6-6-released
+2026-09-09T16:10:54 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/retiring-ntlm-frequently-asked-questions/ba-p/4550522
