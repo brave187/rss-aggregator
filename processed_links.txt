@@ -431,3 +431,6 @@
 2026-09-08T00:00:00 https://blog.icewolf.ch/archive/2026/09/08/entra-security-hardening-hard-matching-disabled
 2026-09-08T20:40:02 https://techcommunity.microsoft.com/t5/exchange-team-blog/released-september-2026-exchange-server-security-updates/ba-p/4554411
 2026-09-08T14:14:41 https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-server-ad-fs-modern-authentication-expanded-outlook/ba-p/4554410
+2026-09-09T07:00:00 https://office365itpros.com/2026/09/09/group-mailbox-graph-api
+2026-09-09T00:00:00 https://blog.icewolf.ch/archive/2026/09/09/exchange-server-SE-SU10-has-been-released
+2026-09-09T00:00:00 https://blog.icewolf.ch/archive/2026/09/09/powershell-7-6-6-released
