@@ -437,3 +437,5 @@
 2026-09-09T16:10:54 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/retiring-ntlm-frequently-asked-questions/ba-p/4550522
 2026-09-09T17:41:18 https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise
 2026-09-10T07:00:00 https://office365itpros.com/2026/09/10/auto-expanding-archive-larger
+2026-09-10T17:23:05 https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud
+2026-09-10T16:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/keep-windows-activation-automation-working-with-powershell/ba-p/4540459
