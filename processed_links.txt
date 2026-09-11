@@ -439,3 +439,5 @@
 2026-09-10T07:00:00 https://office365itpros.com/2026/09/10/auto-expanding-archive-larger
 2026-09-10T17:23:05 https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud
 2026-09-10T16:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/keep-windows-activation-automation-working-with-powershell/ba-p/4540459
+2026-09-11T07:59:42 https://www.cloudcook.ch/microsoft-is-quietly-making-entra-the-boss-of-your-active-directory
+2026-09-11T07:00:00 https://office365itpros.com/2026/09/11/dlp-policies-take-time
