@@ -446,3 +446,5 @@
 2026-09-14T16:11:05 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/resolve-customer-issues-faster-with-queues-app-collaborative/ba-p/4555824
 2026-09-15T07:00:00 https://office365itpros.com/2026/09/15/new-outlook-copilot
 2026-09-15T00:00:00 https://blog.icewolf.ch/archive/2026/09/15/microsoft-teams-efficiency-mode
+2026-09-16T07:00:00 https://office365itpros.com/2026/09/16/remind-me-teams
+2026-09-15T19:54:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-dlp-alert-volume-to-measurable-detection-assurance/ba-p/4545973
