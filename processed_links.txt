@@ -449,3 +449,8 @@
 2026-09-16T07:00:00 https://office365itpros.com/2026/09/16/remind-me-teams
 2026-09-15T19:54:05 https://techcommunity.microsoft.com/t5/microsoft-security-community/from-dlp-alert-volume-to-measurable-detection-assurance/ba-p/4545973
 2026-09-16T23:03:15 https://techcommunity.microsoft.com/t5/intune-customer-success/moving-from-windows-autopilot-to-windows-autopilot-device/ba-p/4557269
+2026-09-17T07:00:00 https://office365itpros.com/2026/09/17/microsoft-graph-powershell-sdkv3
+2026-09-17T00:00:00 https://blog.icewolf.ch/archive/2026/09/17/azure-email-communication-services-ecs
+2026-09-17T00:00:00 https://blog.icewolf.ch/archive/2026/09/17/microsoft-graph-powershell-modules-2-40-0-released
+2026-09-16T17:15:22 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/resolve-customer-issues-faster-with-queues-app-s-collaborative/ba-p/4555824
+2026-09-16T16:30:30 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/replace-vpn-access-with-identity-driven-security/ba-p/4529309
