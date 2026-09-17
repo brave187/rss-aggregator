@@ -454,3 +454,4 @@
 2026-09-17T00:00:00 https://blog.icewolf.ch/archive/2026/09/17/microsoft-graph-powershell-modules-2-40-0-released
 2026-09-16T17:15:22 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/resolve-customer-issues-faster-with-queues-app-s-collaborative/ba-p/4555824
 2026-09-16T16:30:30 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/replace-vpn-access-with-identity-driven-security/ba-p/4529309
+2026-09-17T17:30:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/general-availability-user-initiated-provisioning-for-windows-365/ba-p/4557248
