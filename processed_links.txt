@@ -460,3 +460,4 @@
 2026-09-17T20:27:30 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/public-preview-of-self-service-onboarding-for-new-microsoft/ba-p/4557199
 2026-09-19T00:00:00 https://blog.icewolf.ch/archive/2026/09/19/entra-connect-sync-2-6-91-released
 2026-09-21T07:00:00 https://office365itpros.com/2026/09/21/teams-meeting-graph-api
+2026-09-21T16:04:27 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/prepare-your-tenant-estate-for-ai-join-our-upcoming-webinars/ba-p/4554525
