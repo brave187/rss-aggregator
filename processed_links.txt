@@ -462,3 +462,4 @@
 2026-09-21T07:00:00 https://office365itpros.com/2026/09/21/teams-meeting-graph-api
 2026-09-21T16:04:27 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/prepare-your-tenant-estate-for-ai-join-our-upcoming-webinars/ba-p/4554525
 2026-09-22T09:00:00 https://office365itpros.com/2026/09/22/backup-restore-catastrophic-attack
+2026-09-22T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing
