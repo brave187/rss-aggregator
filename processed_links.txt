@@ -470,3 +470,4 @@
 2026-09-23T15:35:09 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/reimagining-case-management-in-microsoft-defender/ba-p/4558044
 2026-09-24T07:00:00 https://office365itpros.com/2026/09/24/interactive-graph-sessions-apps
 2026-09-24T16:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments
+2026-09-24T00:00:00 https://blog.icewolf.ch/archive/2026/09/24/powershell-v7-7-0-preview5-has-been-released
