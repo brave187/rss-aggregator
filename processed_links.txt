@@ -468,3 +468,4 @@
 2026-09-23T17:25:18 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/giving-you-more-control-over-camera-microphone-and-location/ba-p/4559374
 2026-09-23T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/integrated-security-operations-center-in-microsoft-defender/ba-p/4559097
 2026-09-23T15:35:09 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/reimagining-case-management-in-microsoft-defender/ba-p/4558044
+2026-09-24T07:00:00 https://office365itpros.com/2026/09/24/interactive-graph-sessions-apps
