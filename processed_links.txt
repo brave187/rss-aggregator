@@ -475,3 +475,4 @@
 2026-09-25T15:35:08 https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals
 2026-09-24T19:55:33 https://techcommunity.microsoft.com/t5/azure-tools-blog/introducing-bicep-docs-generate-documentation-from-your-bicep/ba-p/4559737
 2026-09-25T21:06:37 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/coredns-in-aks-service-discovery-upstream-dns-and-failover/ba-p/4559925
+2026-09-26T00:00:00 https://blog.icewolf.ch/archive/2026/09/26/powershell-module-microsoft-online-sharepoint-powershell-16-0-27709-12000
