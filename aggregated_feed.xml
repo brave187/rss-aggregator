@@ -3,13 +3,8 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 25 Sep 2026 21:48:01 GMT</lastBuildDate>
-    <item><title>Instant Revocation of Service Principal Bearer Tokens with CAE</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/instant-revocation-of-service-principal-bearer-tokens-with-cae/ba-p/4548192</link><pubDate>Wed, 26 Aug 2026 02:11:40 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/instant-revocation-of-service-principal-bearer-tokens-with-cae/ba-p/4548192</guid><description>Introduction
-Workload identities such as service principals are an important part of the attack surface in Entra: they are often used by critical automated processes, and they can carry privileged and sensitive permissions.
-The authentication flow used by these principals is the &#8220;Client Credential&#8221; flow, which results in an access token.
-In this blog post, I will show how &#8220;Continuous Access Evaluation&#8221; (CAE) can be leveraged to instantly invalidate an access token for a service principal in Entra.
-This is incredibly valuable as part of a kill-switch in incident response scenarios.
-Access Token...</description></item><item><title>New Graph Permissions Pose Questions for Microsoft 365 Tenants</title><link>https://office365itpros.com/2026/08/26/granular-graph-permissions-question/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=granular-graph-permissions-question</link><pubDate>Wed, 26 Aug 2026 07:28:47 GMT</pubDate><guid isPermaLink="false">https://office365itpros.com/?p=74806</guid><description>Microsoft issues new granular Graph permissions on an ongoing basis. That's good, but only if tenants use the permissions to replace wider permissions in apps and scripts. Three new permissions recently became available, including two to reduce what apps can do with user account objects. The question is how to discover when Microsoft releases new permissions so that a decision can be made whether to use the new permissions....</description></item><item><title>Remote Help on Windows: Unattended Support with Remote Sign-In Is Here</title><link>https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772</link><pubDate>Wed, 26 Aug 2026 07:29:47 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772</guid><description>By: Rodolfo Bermudez | Sr. Product Manager &amp; Kara Wang | Product Manager 2 - Microsoft Intune
+    <lastBuildDate>Sat, 26 Sep 2026 05:24:29 GMT</lastBuildDate>
+    <item><title>New Graph Permissions Pose Questions for Microsoft 365 Tenants</title><link>https://office365itpros.com/2026/08/26/granular-graph-permissions-question/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=granular-graph-permissions-question</link><pubDate>Wed, 26 Aug 2026 07:28:47 GMT</pubDate><guid isPermaLink="false">https://office365itpros.com/?p=74806</guid><description>Microsoft issues new granular Graph permissions on an ongoing basis. That's good, but only if tenants use the permissions to replace wider permissions in apps and scripts. Three new permissions recently became available, including two to reduce what apps can do with user account objects. The question is how to discover when Microsoft releases new permissions so that a decision can be made whether to use the new permissions....</description></item><item><title>Remote Help on Windows: Unattended Support with Remote Sign-In Is Here</title><link>https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772</link><pubDate>Wed, 26 Aug 2026 07:29:47 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/intune-customer-success/remote-help-on-windows-unattended-support-with-remote-sign-in-is/ba-p/4549772</guid><description>By: Rodolfo Bermudez | Sr. Product Manager &amp; Kara Wang | Product Manager 2 - Microsoft Intune
 Helpdesk teams have long asked for a way to remotely troubleshoot Windows devices without needing the user to be present. Whether it&#8217;s after-hours maintenance on a shared device in a call center, or a device sitting idle at a remote office, waiting for a user to be available shouldn&#8217;t be the blocker to getting work done.
 With Intune&#8217;s August release, we&#8217;re excited to announce Remote Help Windows Unattended Support with Remote Sign-In a new capability that lets helpdesk staff remotely access physical W...</description></item><item><title>The Case of the Massive Loop Container</title><link>https://office365itpros.com/2026/08/27/loop-workspace-big-container/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=loop-workspace-big-container</link><pubDate>Thu, 27 Aug 2026 10:27:51 GMT</pubDate><guid isPermaLink="false">https://office365itpros.com/?p=74860</guid><description>Why would a seemingly simple Loop workspace develop into a monster SharePoint Embedded container? That's the question to answer when a Loop container grew to fill nearly 88 GB of SharePoint Embedded storage. The workspace had been through many hundreds of edits, but that&#8217;s an unlikely reason to spread and occupy so much storage. Loop and SharePoint Embedded are black boxes when it comes to administration, so we must wait for Microsoft to explain....</description></item><item><title>Tell us how you use ObjectGuid, SamAccountName, and DistinguishedName in Exchange Online</title><link>https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939</link><pubDate>Thu, 27 Aug 2026 22:33:07 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/exchange-team-blog/tell-us-how-you-use-objectguid-samaccountname-and/ba-p/4550939</guid><description>As Exchange Online continues its multi-year directory modernization, we are evaluating the future of several long-standing identifier properties: ObjectGuid, SamAccountName, and DistinguishedName.
 Today, multiple properties can identify the same object in Exchange Online. While this has provided flexibility and compatibility, some of these identifiers reflect design decisions from an earlier era and can add complexity for customers building and maintaining automation, integrations, and administrative workflows.
@@ -126,5 +121,31 @@ Yesterday, Microsoft has released the PowerShell v7.7.0-preview.5 on GitHub.</de
 The post Storm-3168: Agentic-driven cloud attacks using compromised service principals appeared first on Microsoft Security Blog....</description></item><item><title>Introducing bicep docs: generate documentation from your Bicep modules</title><link>https://techcommunity.microsoft.com/t5/azure-tools-blog/introducing-bicep-docs-generate-documentation-from-your-bicep/ba-p/4559737</link><pubDate>Fri, 25 Sep 2026 17:31:46 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/azure-tools-blog/introducing-bicep-docs-generate-documentation-from-your-bicep/ba-p/4559737</guid><description>TL;DR: The Bicep CLI has a new experimental command, bicep docs generate. Point it at a Bicep module and it writes a README.md next to it that describes the module's resources, parameters, types, outputs and usage examples, all read straight from your code. You can change the layout with your own templates, add details that aren't in the code, and document every module in a repository with one command. It's available now in Bicep CLI v0.47.16 and later.
 bicep docs generate ./main.bicep
 Why we built it
-Module documentation has a habit of drifting away from the code it describes. Someone renames...</description></item></channel>
+Module documentation has a habit of drifting away from the code it describes. Someone renames...</description></item><item><title>CoreDNS in AKS: service discovery, upstream DNS, and failover</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/coredns-in-aks-service-discovery-upstream-dns-and-failover/ba-p/4559925</link><pubDate>Sat, 26 Sep 2026 05:24:29 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/coredns-in-aks-service-discovery-upstream-dns-and-failover/ba-p/4559925</guid><description>
+Table of Contents
+
+1. Where CoreDNS fits in AKS
+2. How a pod gets a DNS answer
+
+Cluster Service names
+Names handled by another DNS server
+LocalDNS can change the first hop
+
+
+3. What AKS manages and what you can customize
+4. How CoreDNS selects and checks upstream servers
+
+Selection policy chooses the starting server
+A missing reply and an error reply are different
+Health checks change later selections
+
+
+5. What failure tests on AKS showed
+6. Troubleshooting the right part of the DNS path
+7. A repeatable way to validate CoreDNS behavior
+8. Conclusion and next steps
+
+Try it now
+Learn more
+Conne...</description></item></channel>
 </rss>
