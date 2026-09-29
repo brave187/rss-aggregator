@@ -481,3 +481,7 @@
 2026-09-28T07:00:00 https://office365itpros.com/2026/09/28/microsoft-learn-external
 2026-09-28T12:23:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-domain-lists-to-decisions-scaling-whois-threat-intelligence/ba-p/4560384
 2026-09-29T07:00:00 https://office365itpros.com/2026/09/29/acs-retirement-sept-2028
+2026-09-29T17:01:12 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-26h2-security-baseline/ba-p/4560382
+2026-09-29T17:00:55 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/an-it-pro-s-guide-to-windows-11-version-26h2/ba-p/4559760
+2026-09-29T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sign-in-to-microsoft-apps-with-passkeys-from-external-identity/ba-p/4556448
+2026-09-29T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique
