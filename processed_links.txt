@@ -480,3 +480,4 @@
 2026-09-28T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations
 2026-09-28T07:00:00 https://office365itpros.com/2026/09/28/microsoft-learn-external
 2026-09-28T12:23:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/from-domain-lists-to-decisions-scaling-whois-threat-intelligence/ba-p/4560384
+2026-09-29T07:00:00 https://office365itpros.com/2026/09/29/acs-retirement-sept-2028
