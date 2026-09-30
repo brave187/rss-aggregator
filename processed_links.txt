@@ -485,3 +485,8 @@
 2026-09-29T17:00:55 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/an-it-pro-s-guide-to-windows-11-version-26h2/ba-p/4559760
 2026-09-29T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/sign-in-to-microsoft-apps-with-passkeys-from-external-identity/ba-p/4556448
 2026-09-29T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique
+2026-09-30T02:33:27 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/scaling-classification-and-labeling-an-interactive-reference/ba-p/4560925
+2026-09-30T01:56:58 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/microsoft-purview-referential-architecture-diagrams/ba-p/4510925
+2026-09-30T00:00:00 https://blog.icewolf.ch/archive/2026/09/30/microsoft-graph-powershell-modules-2-41-0-released
+2026-09-29T21:39:27 https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access
+2026-09-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-blog/now-in-public-preview-microsoft-365-sharepoint-storage-and/ba-p/4559758
