@@ -503,3 +503,5 @@
 2026-10-01T21:50:26 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/help-your-customers-get-answers-and-support-with-teams-phone/ba-p/4560840
 2026-10-01T20:07:06 https://techcommunity.microsoft.com/t5/exchange-team-blog/ews-deprecation-is-here-what-this-means-to-you/ba-p/4561431
 2026-10-01T17:03:00 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-august-september-2026/ba-p/4556438
+2026-10-02T07:00:00 https://office365itpros.com/2026/10/02/easier-federated-chat
+2026-10-02T00:00:00 https://blog.icewolf.ch/archive/2026/10/02/jabra-direct-update-september-2026
