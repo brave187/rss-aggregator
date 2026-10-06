@@ -507,3 +507,4 @@
 2026-10-02T00:00:00 https://blog.icewolf.ch/archive/2026/10/02/jabra-direct-update-september-2026
 2026-10-02T20:30:04 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-news-you-can-use-september-2026/ba-p/4552395
 2026-10-03T00:00:00 https://blog.icewolf.ch/archive/2026/10/03/exchange-server-SE-SU10-v2-has-been-released
+2026-10-05T07:00:00 https://office365itpros.com/2026/10/05/microsoft-graph-powershell-sdk-fix

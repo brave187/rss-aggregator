@@ -3,7 +3,7 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:17:58 GMT</lastBuildDate>
     <item><title>Help Shape the Microsoft Security Practitioner Community</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-community/help-shape-the-microsoft-security-practitioner-community/ba-p/4553560</link><pubDate>Sat, 05 Sep 2026 15:30:00 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-community/help-shape-the-microsoft-security-practitioner-community/ba-p/4553560</guid><description>We want to hear from the people who configure, operate, and defend with Microsoft Security every day. Share your priorities, challenges, and where you go to learn and connect.
 Your feedback will help shape future technical content, hands-on experiences, events, and community programs. The survey takes just a few minutes.
 Please fill out the survey here: Microsoft Security Tech Community Practitioner Survey &#8211; Fill out form
@@ -152,5 +152,5 @@ New in Windows update and device management
 
 
 [26H2] &#8211; New and updated tools and resources are now available to help you evaluate and roll out Windows 11, version 26H2 at...</description></item><item><title>Exchange Server SE SU10 V2 has been released</title><link>https://blog.icewolf.ch/archive/2026/10/03/exchange-server-SE-SU10-v2-has-been-released/</link><pubDate>Sat, 03 Oct 2026 11:58:52 GMT</pubDate><guid isPermaLink="false">https://blog.icewolf.ch/archive/2026/10/03/exchange-server-SE-SU10-v2-has-been-released/</guid><description>Hi All,
-Yesterday, Microsoft has released the Exchange SE SU10 V2.</description></item></channel>
+Yesterday, Microsoft has released the Exchange SE SU10 V2.</description></item><item><title>Microsoft Graph PowerShell SDK V2.41 Finally Fixes Assembly Clash</title><link>https://office365itpros.com/2026/10/05/microsoft-graph-powershell-sdk-fix/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-graph-powershell-sdk-fix</link><pubDate>Tue, 06 Oct 2026 00:17:58 GMT</pubDate><guid isPermaLink="false">https://office365itpros.com/?p=75301</guid><description>The Microsoft Graph PowerShell SDK has long been plagued by assembly clashes that meant it couldn't be used in the same session as other Microsoft 365 modules. After Microsoft engineering groups looked at the problem for 18 months, a solution was found by MVP Stephen van Rooij and is now available in V2.41. Apart from an issue with old PowerShell 7 versions, the fix looks solid and the SDK can once again be loaded into PowerShell sessions alongside the Exchange Online and Teams modules....</description></item></channel>
 </rss>
