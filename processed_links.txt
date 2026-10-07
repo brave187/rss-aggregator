@@ -514,3 +514,6 @@
 2026-10-06T00:00:00 https://blog.icewolf.ch/archive/2026/10/06/microsoft-graph-powershell-modules-2-41-1-released
 2026-10-06T23:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/remote-pc-connections-in-windows-app-on-windows-is-now-generally/ba-p/4561186
 2026-10-07T00:00:00 https://blog.icewolf.ch/archive/2026/10/07/new-hybrid-configuration-wizard-17-1-4600-0-spotted
+2026-10-07T17:42:12 https://techcommunity.microsoft.com/t5/microsoft-security-community/the-microsoft-ai-and-agent-platform-securing-and-governing/ba-p/4562204
+2026-10-07T13:59:20 https://techcommunity.microsoft.com/t5/exchange-team-blog/sending-from-email-aliases-general-availability/ba-p/4562543
+2026-10-07T07:00:00 https://office365itpros.com/2026/10/07/group-mailbox-folder-items
