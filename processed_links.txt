@@ -526,3 +526,5 @@
 2026-10-09T07:00:00 https://office365itpros.com/2026/10/09/send-from-alias-finally-ga
 2026-10-09T04:40:50 https://techcommunity.microsoft.com/t5/azure-tools-blog/azure-cli-on-macos-got-security-upgrade-native-broker/ba-p/4563073
 2026-10-12T07:00:00 https://office365itpros.com/2026/10/12/maintain-runtime-environments-ps
+2026-10-13T07:00:00 https://office365itpros.com/2026/10/13/get-sharepoint-sites
+2026-10-13T00:00:00 https://blog.icewolf.ch/archive/2026/10/13/get-mailprotection-fixes-some-SPF-loops
