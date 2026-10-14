@@ -532,3 +532,4 @@
 2026-10-13T15:24:57 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/check-this-out-cto-guide-october-2026/ba-p/4564188
 2026-10-13T14:52:59 https://techcommunity.microsoft.com/t5/azure-tools-blog/azure-verified-modules-avm-is-now-owned-by-azure-engineering/ba-p/4563822
 2026-10-13T09:13:15 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/locking-down-paws-internet-access-when-gsa-drops/ba-p/4553963
+2026-10-14T00:00:00 https://blog.icewolf.ch/archive/2026/10/14/exchange-server-SE-SU11-has-been-released
