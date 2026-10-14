@@ -533,3 +533,6 @@
 2026-10-13T14:52:59 https://techcommunity.microsoft.com/t5/azure-tools-blog/azure-verified-modules-avm-is-now-owned-by-azure-engineering/ba-p/4563822
 2026-10-13T09:13:15 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/locking-down-paws-internet-access-when-gsa-drops/ba-p/4553963
 2026-10-14T00:00:00 https://blog.icewolf.ch/archive/2026/10/14/exchange-server-SE-SU11-has-been-released
+2026-10-14T07:00:00 https://office365itpros.com/2026/10/14/file-level-archiving-report
+2026-10-14T00:00:00 https://blog.icewolf.ch/archive/2026/10/14/microsoftplaces-powershell-module-2-1-12-has-been-released
+2026-10-14T00:00:00 https://blog.icewolf.ch/archive/2026/10/14/powershell-7-6-7-released
