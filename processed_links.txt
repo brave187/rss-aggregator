@@ -540,3 +540,4 @@
 2026-10-13T18:37:34 https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014
 2026-10-15T07:00:00 https://office365itpros.com/2026/10/15/agent-blueprint-option
 2026-10-15T00:00:00 https://blog.icewolf.ch/archive/2026/10/15/microsoft-graph-powershell-modules-2-41-2-released
+2026-10-15T18:23:27 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/coming-to-windows-11-an-updated-photos-experience/ba-p/4564903
