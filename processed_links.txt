@@ -538,3 +538,5 @@
 2026-10-14T00:00:00 https://blog.icewolf.ch/archive/2026/10/14/powershell-7-6-7-released
 2026-10-14T13:00:00 https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime
 2026-10-13T18:37:34 https://techcommunity.microsoft.com/t5/exchange-team-blog/released-october-2026-exchange-server-security-updates/ba-p/4563014
+2026-10-15T07:00:00 https://office365itpros.com/2026/10/15/agent-blueprint-option
+2026-10-15T00:00:00 https://blog.icewolf.ch/archive/2026/10/15/microsoft-graph-powershell-modules-2-41-2-released
