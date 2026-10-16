@@ -541,3 +541,5 @@
 2026-10-15T07:00:00 https://office365itpros.com/2026/10/15/agent-blueprint-option
 2026-10-15T00:00:00 https://blog.icewolf.ch/archive/2026/10/15/microsoft-graph-powershell-modules-2-41-2-released
 2026-10-15T18:23:27 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/coming-to-windows-11-an-updated-photos-experience/ba-p/4564903
+2026-10-16T07:00:00 https://office365itpros.com/2026/10/16/automating-microsoft-365-29
+2026-10-15T17:03:46 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-october-2026/ba-p/4556460
