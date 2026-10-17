@@ -545,3 +545,4 @@
 2026-10-15T17:03:46 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-october-2026/ba-p/4556460
 2026-10-15T22:05:25 https://techcommunity.microsoft.com/t5/intune-customer-success/preparing-for-end-of-support-for-cname-auto-discovery-in-windows/ba-p/4564973
 2026-10-16T21:53:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/master-microsoft-entra-with-live-webinars-amas-and-on-demand/ba-p/4502147
+2026-10-17T01:02:06 https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-servers-may-become-unstable-after-installation-of/ba-p/4565382
