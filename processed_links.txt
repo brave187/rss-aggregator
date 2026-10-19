@@ -546,3 +546,4 @@
 2026-10-15T22:05:25 https://techcommunity.microsoft.com/t5/intune-customer-success/preparing-for-end-of-support-for-cname-auto-discovery-in-windows/ba-p/4564973
 2026-10-16T21:53:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/master-microsoft-entra-with-live-webinars-amas-and-on-demand/ba-p/4502147
 2026-10-17T01:02:06 https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-servers-may-become-unstable-after-installation-of/ba-p/4565382
+2026-10-19T07:00:00 https://office365itpros.com/2026/10/19/search-unifiedauditlog-retirement
