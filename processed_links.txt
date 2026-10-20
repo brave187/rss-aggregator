@@ -551,3 +551,5 @@
 2026-10-19T19:03:12 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/where-does-my-microsoft-entra-id-data-reside-understanding-azure/ba-p/4565946
 2026-10-19T18:38:09 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/troubleshooting-playbook-for-auto-labelling-in-sharepoint-and/ba-p/4564103
 2026-10-19T14:24:57 https://techcommunity.microsoft.com/t5/exchange-team-blog/the-change-optics-report-is-now-generally-available-in-exchange/ba-p/4565858
+2026-10-20T17:15:35 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/your-windows-release-information-toolbox/ba-p/4566273
+2026-10-19T19:33:25 https://techcommunity.microsoft.com/t5/intune-customer-success/require-google-workspace-authentication-on-android-enterprise/ba-p/4565954
