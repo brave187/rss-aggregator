@@ -553,3 +553,4 @@
 2026-10-19T14:24:57 https://techcommunity.microsoft.com/t5/exchange-team-blog/the-change-optics-report-is-now-generally-available-in-exchange/ba-p/4565858
 2026-10-20T17:15:35 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/your-windows-release-information-toolbox/ba-p/4566273
 2026-10-19T19:33:25 https://techcommunity.microsoft.com/t5/intune-customer-success/require-google-workspace-authentication-on-android-enterprise/ba-p/4565954
+2026-10-20T13:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/expanded-cross-tenant-delegated-administration-in-microsoft/ba-p/4565941
