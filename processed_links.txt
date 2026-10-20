@@ -547,3 +547,7 @@
 2026-10-16T21:53:24 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/master-microsoft-entra-with-live-webinars-amas-and-on-demand/ba-p/4502147
 2026-10-17T01:02:06 https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-servers-may-become-unstable-after-installation-of/ba-p/4565382
 2026-10-19T07:00:00 https://office365itpros.com/2026/10/19/search-unifiedauditlog-retirement
+2026-10-20T07:00:00 https://office365itpros.com/2026/10/20/group-member-sdk-cmdlets
+2026-10-19T19:03:12 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/where-does-my-microsoft-entra-id-data-reside-understanding-azure/ba-p/4565946
+2026-10-19T18:38:09 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/troubleshooting-playbook-for-auto-labelling-in-sharepoint-and/ba-p/4564103
+2026-10-19T14:24:57 https://techcommunity.microsoft.com/t5/exchange-team-blog/the-change-optics-report-is-now-generally-available-in-exchange/ba-p/4565858
