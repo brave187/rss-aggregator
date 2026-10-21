@@ -557,3 +557,4 @@
 2026-10-21T07:00:00 https://office365itpros.com/2026/10/21/ai-meeting-archive-files
 2026-10-20T19:34:43 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/manage-all-your-microsoft-sentinel-data-in-one-place-with/ba-p/4565940
 2026-10-20T17:24:44 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/expanded-cross-tenant-delegated-access-in-microsoft-defender-is/ba-p/4565941
+2026-10-20T19:02:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-billing-simplified-introducing-the-defender/ba-p/4559743
