@@ -559,3 +559,5 @@
 2026-10-20T17:24:44 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/expanded-cross-tenant-delegated-access-in-microsoft-defender-is/ba-p/4565941
 2026-10-20T19:02:27 https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/cloud-security-billing-simplified-introducing-the-defender/ba-p/4559743
 2026-10-21T18:23:55 https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise
+2026-10-21T17:42:20 https://techcommunity.microsoft.com/t5/exchange-team-blog/exchange-online-ews-application-stopped-working-do-this/ba-p/4566215
+2026-10-21T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/your-guide-to-intune-at-microsoft-ignite-2026/ba-p/4564556
