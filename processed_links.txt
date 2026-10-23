@@ -566,3 +566,4 @@
 2026-10-22T03:24:58 https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-custom-rules-for-php2shell-mitigation/ba-p/4566684
 2026-10-22T03:18:42 https://techcommunity.microsoft.com/t5/azure-network-security-blog/addressing-php2shell-cve-2026-109618-and-cve-2026-109619-upgrade/ba-p/4566623
 2026-10-21T23:59:29 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/making-microsoft-teams-more-responsive-reliable-and-ready-for/ba-p/4564205
+2026-10-22T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/designing-smarter-access-policies-for-hybrid-enterprises/ba-p/4529308
