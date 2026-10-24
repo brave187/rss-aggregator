@@ -571,3 +571,4 @@
 2026-10-23T00:00:00 https://blog.icewolf.ch/archive/2026/10/23/powershell-7-6-8-released
 2026-10-23T00:00:00 https://blog.icewolf.ch/archive/2026/10/23/psresourceget-1-3-0-rc1-released
 2026-10-22T17:06:53 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/turn-threat-intelligence-into-informed-action-with-microsoft/ba-p/4566636
+2026-10-23T18:14:10 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bracing-for-blockntlmv1sso/ba-p/4567273
