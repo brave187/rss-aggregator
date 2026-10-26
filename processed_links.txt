@@ -575,3 +575,5 @@
 2026-10-24T00:00:00 https://blog.icewolf.ch/archive/2026/10/24/exchangeonlinemanagement-3-11-1-preview1-released
 2026-10-23T20:17:17 https://techcommunity.microsoft.com/t5/azure-network-security-blog/protect-against-brotli-cve-2026-111497-with-azure-web/ba-p/4567288
 2026-10-26T00:00:00 https://blog.icewolf.ch/archive/2026/10/26/powershell-7-6-9-released
+2026-10-26T12:38:12 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-156/ba-p/4567729
+2026-10-26T07:00:00 https://office365itpros.com/2026/10/26/copilot-retention-policies-update
