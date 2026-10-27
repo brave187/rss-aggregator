@@ -578,3 +578,5 @@
 2026-10-26T12:38:12 https://techcommunity.microsoft.com/t5/microsoft-security-baselines/security-review-for-microsoft-edge-version-156/ba-p/4567729
 2026-10-26T07:00:00 https://office365itpros.com/2026/10/26/copilot-retention-policies-update
 2026-10-26T15:09:18 https://techcommunity.microsoft.com/t5/microsoft-365-blog/more-than-a-conference-connect-with-the-microsoft-community-at/ba-p/4567771
+2026-10-27T12:30:37 https://build5nines.com/ai-changed-the-cost-of-writing-code-its-time-to-reestimate-legacy-modernization
+2026-10-27T07:00:00 https://office365itpros.com/2026/10/27/auditlogquery-conversion
