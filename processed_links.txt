@@ -583,3 +583,5 @@
 2026-10-27T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/why-identity-needs-network-insight-to-make-zero-trust-work/ba-p/4566630
 2026-10-28T07:00:00 https://office365itpros.com/2026/10/28/federated-chat-attack
 2026-10-28T17:43:02 https://techcommunity.microsoft.com/t5/intune-customer-success/establish-a-macos-security-baseline-with-mscp-and-microsoft/ba-p/4568222
+2026-10-28T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/growing-our-connector-ecosystem-with-500-microsoft-sentinel/ba-p/4567832
+2026-10-28T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/identity-under-attack-how-ai-strengthens-defense/ba-p/4566649
