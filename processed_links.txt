@@ -587,3 +587,7 @@
 2026-10-28T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/identity-under-attack-how-ai-strengthens-defense/ba-p/4566649
 2026-10-29T07:00:00 https://office365itpros.com/2026/10/29/conditional-access-policy-plans
 2026-10-29T16:00:00 https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft
+2026-10-29T18:00:00 https://techcommunity.microsoft.com/t5/microsoft-intune-blog/what-s-new-in-microsoft-intune-october/ba-p/4537396
+2026-10-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/now-generally-available-discover-local-ai-agents-with-microsoft/ba-p/4568216
+2026-10-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-linux-in-the-age-of-ai-operated-attacks/ba-p/4557210
+2026-10-29T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-are-coming-are-your-identity-controls-prepared/ba-p/4515964
