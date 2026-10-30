@@ -3,8 +3,8 @@
     <title>RSS Aggregator Feed</title>
     <link>https://brave187.github.io/rss-aggregator/aggregated_feed.xml</link>
     <description>An aggregated feed of Microsoft blogs</description>
-    <lastBuildDate>Fri, 30 Oct 2026 06:23:11 GMT</lastBuildDate>
-    <item><title>Microsoft to Drop Most Azure Communication Services</title><link>https://office365itpros.com/2026/09/29/acs-retirement-sept-2028/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=acs-retirement-sept-2028</link><pubDate>Tue, 29 Sep 2026 13:17:04 GMT</pubDate><guid isPermaLink="false">https://office365itpros.com/?p=75235</guid><description>Microsoft has announced that it will retire most Azure Communication Services offerings on September 30, 2028. Among the affected services is Email Communication Services (ECS), leaving Microsoft without a dedicated cloud service for high-volume external email. Exchange Online's High Volume Email (HVE) service currently lacks that capability, but Microsoft could choose to fill the gap with a new pay-as-you-go HVE offering aimed at bulk email workloads....</description></item><item><title>Windows 11, version 26H2 security baseline</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-26h2-security-baseline/ba-p/4560382</link><pubDate>Tue, 29 Sep 2026 22:33:51 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-26h2-security-baseline/ba-p/4560382</guid><description>You can download the baseline package from the Microsoft Security Compliance Toolkit, test the recommended configurations in your environment, and customize / implement them as appropriate.
+    <lastBuildDate>Fri, 30 Oct 2026 13:29:25 GMT</lastBuildDate>
+    <item><title>Windows 11, version 26H2 security baseline</title><link>https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-26h2-security-baseline/ba-p/4560382</link><pubDate>Tue, 29 Sep 2026 22:33:51 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-security-baselines/windows-11-version-26h2-security-baseline/ba-p/4560382</guid><description>You can download the baseline package from the Microsoft Security Compliance Toolkit, test the recommended configurations in your environment, and customize / implement them as appropriate.
 Summary of Changes
 This release includes several changes since the Security baseline for Windows 11, version 25H2 that further strengthen enterprise security and align the baseline with current platform capabilities and industry standards. These changes are summarized in the table below.
 
@@ -205,5 +205,46 @@ A Cloud PC that an agent may use needs security configurations in place before t
 That&#8217;s why Microsoft Defender is focused on three priorities for Linu...</description></item><item><title>AI agents are coming&#8212;are your identity controls prepared?</title><link>https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-are-coming-are-your-identity-controls-prepared/ba-p/4515964</link><pubDate>Fri, 30 Oct 2026 06:26:11 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-are-coming-are-your-identity-controls-prepared/ba-p/4515964</guid><description>AI is reshaping identity risk. Attackers now use AI to automate phishing, social engineering, and privilege escalation, making credential theft faster and more convincing than ever. SMS codes and push approvals can be intercepted, while standing privileges give attackers reach far beyond a single account.
 On the other hand, as organizations adopt AI agents, identity risk grows exponentially. Securing agent identities is critical to maintaining trust and control. The same principles that protect user identities must now extend to every agent identity.
 Reinforcing the principles
-Microsoft&#8217;s rece...</description></item></channel>
+Microsoft&#8217;s rece...</description></item><item><title>Microsoft Releases FY27 Q1 Results &#8211; Microsoft 365 at 470 Million Paid Seats</title><link>https://office365itpros.com/2026/10/30/microsoft-cloud-fy27-q1/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=microsoft-cloud-fy27-q1</link><pubDate>Fri, 30 Oct 2026 13:29:25 GMT</pubDate><guid isPermaLink="false">https://office365itpros.com/?p=75723</guid><description>Every quarter, I look for interesting nuggets about Microsoft 365 and the wider Microsoft Cloud ecosystem in Microsoft&#8217;s quarterly results. This time round, the Microsoft Cloud clocked up $63.9 billion, which is a lot of money. Growth continues for Microsoft 365 in both revenues (spurred by Copilot, E7, and price increases) and numbers. The seat count is growing more slowly than in the past in percentage terms, but that&#8217;s because the base is so large....</description></item><item><title>AKS Pod Scheduling Demystified</title><link>https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/aks-pod-scheduling-demystified/ba-p/4567392</link><pubDate>Fri, 30 Oct 2026 13:30:25 GMT</pubDate><guid isPermaLink="false">https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/aks-pod-scheduling-demystified/ba-p/4567392</guid><description>
+
+Table of Contents
+
+1. The scheduling question
+2. Capacity, allocatable, requests, and usage
+3. One pod from arrival to completion
+
+
+Stage 1: Filtering. Can each node run the pod?
+
+
+
+
+Stage 2: Scoring. Which eligible node ranks highest?
+
+
+
+
+Stage 3: Binding. Where does the pod go?
+
+
+
+
+Stage 4: Runtime. Why can worker C still become busy?
+
+
+
+
+Stage 5: Completion. What happens to its reservation?
+
+
+4. Why memory can outweigh CPU
+5. How to investigate an uneven placement pattern
+6. How to prevent pods piling onto one node
+7. Conclusion and references
+
+
+
+1. The scheduling question
+
+Picture four A...</description></item></channel>
 </rss>

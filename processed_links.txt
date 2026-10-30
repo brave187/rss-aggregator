@@ -591,3 +591,5 @@
 2026-10-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/now-generally-available-discover-local-ai-agents-with-microsoft/ba-p/4568216
 2026-10-29T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/defending-linux-in-the-age-of-ai-operated-attacks/ba-p/4557210
 2026-10-29T15:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ai-agents-are-coming-are-your-identity-controls-prepared/ba-p/4515964
+2026-10-30T07:00:00 https://office365itpros.com/2026/10/30/microsoft-cloud-fy27-q1
+2026-10-29T15:55:51 https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/aks-pod-scheduling-demystified/ba-p/4567392
