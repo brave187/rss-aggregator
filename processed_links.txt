@@ -605,3 +605,5 @@
 2026-11-03T00:00:00 https://blog.icewolf.ch/archive/2026/11/03/azure-storage-explorer-1-47-0
 2026-11-03T00:00:00 https://blog.icewolf.ch/archive/2026/11/03/powershell-v7-7-0-rc1-has-been-released
 2026-11-02T22:05:34 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/global-secure-access-private-access-and-internet-access-in-one/ba-p/4569098
+2026-11-03T22:21:54 https://techcommunity.microsoft.com/t5/microsoft-purview-blog/what-stops-a-service-side-auto-labeling-rollout-from-being/ba-p/4567706
+2026-11-03T22:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-news-you-can-use-october-2026/ba-p/4552396
