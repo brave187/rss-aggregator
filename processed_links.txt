@@ -618,3 +618,6 @@
 2026-11-05T23:46:50 https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets
 2026-11-06T00:00:00 https://blog.icewolf.ch/archive/2026/11/06/jabra-direct-update-november-2026
 2026-11-07T02:44:34 https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector
+2026-11-07T00:00:00 https://blog.icewolf.ch/archive/2026/11/07/powertoys-v0-102-3101-released
+2026-11-06T21:04:04 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2026/ba-p/4556457
+2026-11-06T20:56:39 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/catch-microsoft-entra-at-ignite-2026/ba-p/4513159
