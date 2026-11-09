@@ -621,3 +621,4 @@
 2026-11-07T00:00:00 https://blog.icewolf.ch/archive/2026/11/07/powertoys-v0-102-3101-released
 2026-11-06T21:04:04 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2026/ba-p/4556457
 2026-11-06T20:56:39 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/catch-microsoft-entra-at-ignite-2026/ba-p/4513159
+2026-11-09T07:00:00 https://office365itpros.com/2026/11/09/hard-deletion-protection
