@@ -622,3 +622,6 @@
 2026-11-06T21:04:04 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/what-s-new-in-microsoft-entra-november-2026/ba-p/4556457
 2026-11-06T20:56:39 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/catch-microsoft-entra-at-ignite-2026/ba-p/4513159
 2026-11-09T07:00:00 https://office365itpros.com/2026/11/09/hard-deletion-protection
+2026-11-10T07:00:00 https://office365itpros.com/2026/11/10/new-audit-events-purview-solutions
+2026-11-09T19:00:25 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/enhanced-resilience-with-windows-settings-backup-and-restore/ba-p/4571757
+2026-11-09T18:43:30 https://techcommunity.microsoft.com/t5/exchange-team-blog/now-available-oauth-authentication-for-on-premises-exchange/ba-p/4571777
