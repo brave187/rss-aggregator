@@ -625,3 +625,6 @@
 2026-11-10T07:00:00 https://office365itpros.com/2026/11/10/new-audit-events-purview-solutions
 2026-11-09T19:00:25 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/enhanced-resilience-with-windows-settings-backup-and-restore/ba-p/4571757
 2026-11-09T18:43:30 https://techcommunity.microsoft.com/t5/exchange-team-blog/now-available-oauth-authentication-for-on-premises-exchange/ba-p/4571777
+2026-11-11T07:00:00 https://office365itpros.com/2026/11/11/fetch-large-volumes-sign-in-logs
+2026-11-11T00:00:00 https://blog.icewolf.ch/archive/2026/11/11/powershell-v7-7-0-GA-has-been-released
+2026-11-10T23:00:00 https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons
