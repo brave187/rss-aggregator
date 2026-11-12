@@ -633,3 +633,7 @@
 2026-11-12T07:00:00 https://office365itpros.com/2026/11/12/custom-attributes-graph
 2026-11-11T19:49:57 https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2
 2026-11-11T16:18:37 https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-you-ll-learn-explore-and-experience-at-espc-2026/ba-p/4572576
+2026-11-12T17:00:00 https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents
+2026-11-12T17:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/granular-controls-for-multiple-updates-in-windows-autopatch/ba-p/4572668
+2026-11-12T13:21:39 https://build5nines.com/naive-optimism-trap-ai-software-development
+2026-11-12T13:11:33 https://build5nines.com/apple-foundation-models-macos-ai-toolkit
