@@ -630,3 +630,6 @@
 2026-11-10T23:00:00 https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons
 2026-11-11T00:00:00 https://blog.icewolf.ch/archive/2026/11/11/exchangeonlinemanagement-3-11-1-released
 2026-11-11T00:00:00 https://blog.icewolf.ch/archive/2026/11/11/psresourceget-1-3-1-released
+2026-11-12T07:00:00 https://office365itpros.com/2026/11/12/custom-attributes-graph
+2026-11-11T19:49:57 https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2
+2026-11-11T16:18:37 https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-you-ll-learn-explore-and-experience-at-espc-2026/ba-p/4572576
