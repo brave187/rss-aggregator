@@ -637,3 +637,4 @@
 2026-11-12T17:00:00 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/granular-controls-for-multiple-updates-in-windows-autopatch/ba-p/4572668
 2026-11-12T13:21:39 https://build5nines.com/naive-optimism-trap-ai-software-development
 2026-11-12T13:11:33 https://build5nines.com/apple-foundation-models-macos-ai-toolkit
+2026-11-13T07:00:00 https://office365itpros.com/2026/11/13/exchange-admin-api-changes
