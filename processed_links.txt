@@ -639,3 +639,4 @@
 2026-11-12T13:11:33 https://build5nines.com/apple-foundation-models-macos-ai-toolkit
 2026-11-13T07:00:00 https://office365itpros.com/2026/11/13/exchange-admin-api-changes
 2026-11-13T12:13:00 https://build5nines.com/ai-terraform-platform-engineers-sres
+2026-11-13T21:31:44 https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions
