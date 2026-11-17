@@ -646,3 +646,5 @@
 2026-11-16T00:00:00 https://blog.icewolf.ch/archive/2026/11/16/azure-powershell-module-az-17-0-0-released
 2026-11-16T18:59:20 https://techcommunity.microsoft.com/t5/exchange-team-blog/reject-direct-send-now-generally-available-in-exchange-online/ba-p/4573787
 2026-11-16T00:00:00 https://blog.icewolf.ch/archive/2026/11/16/PSMTA-STS-1-4-1-has-been-released
+2026-11-17T07:00:00 https://office365itpros.com/2026/11/17/impersonation-teams-protection
+2026-11-17T00:08:41 https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2
