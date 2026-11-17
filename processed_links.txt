@@ -648,3 +648,11 @@
 2026-11-16T00:00:00 https://blog.icewolf.ch/archive/2026/11/16/PSMTA-STS-1-4-1-has-been-released
 2026-11-17T07:00:00 https://office365itpros.com/2026/11/17/impersonation-teams-protection
 2026-11-17T00:08:41 https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2
+2026-11-17T19:00:23 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-365-at-ignite-2026-introducing-new-cloud-pc-capabilities/ba-p/4570006
+2026-11-17T18:43:35 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/rethinking-windows-management-for-modern-it/ba-p/4572664
+2026-11-17T18:31:19 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/expand-passwordless-access-with-confidence/ba-p/4572666
+2026-11-17T18:15:58 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/a-verifiable-security-state-with-windows-baseline-protection/ba-p/4572654
+2026-11-17T18:15:44 https://techcommunity.microsoft.com/t5/windows-it-pro-blog/what-s-next-windows-endpoint-security-platform-and-driver/ba-p/4572663
+2026-11-17T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents
+2026-11-17T12:23:00 https://build5nines.com/build-simple-ai-coding-harness-csharp-sharpvector-microsoft-agent-framework
+2026-11-17T06:16:49 https://techcommunity.microsoft.com/t5/azure-tools-blog/announcing-public-preview-of-the-next-generation-of-azure-cli/ba-p/4573824
