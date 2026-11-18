@@ -656,3 +656,7 @@
 2026-11-17T15:00:00 https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents
 2026-11-17T12:23:00 https://build5nines.com/build-simple-ai-coding-harness-csharp-sharpvector-microsoft-agent-framework
 2026-11-17T06:16:49 https://techcommunity.microsoft.com/t5/azure-tools-blog/announcing-public-preview-of-the-next-generation-of-azure-cli/ba-p/4573824
+2026-11-18T07:00:00 https://office365itpros.com/2026/11/18/legacy-microsoft-office-labels
+2026-11-17T18:40:48 https://techcommunity.microsoft.com/t5/microsoft-365-blog/multi-tenant-management-tenants-agents-and-ai-spend-in-one-place/ba-p/4573372
+2026-11-17T18:38:12 https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-in-work-iq-at-ignite-2026-agents-that-get-work-done/ba-p/4572219
+2026-11-17T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-blog/ignite-26-spotlight-announcing-microsoft-baseline-security-mode/ba-p/4572694
