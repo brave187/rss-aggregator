@@ -661,3 +661,5 @@
 2026-11-17T18:38:12 https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-in-work-iq-at-ignite-2026-agents-that-get-work-done/ba-p/4572219
 2026-11-17T17:00:00 https://techcommunity.microsoft.com/t5/microsoft-365-blog/ignite-26-spotlight-announcing-microsoft-baseline-security-mode/ba-p/4572694
 2026-11-18T12:54:27 https://www.cloudcook.ch/i-built-a-passkey-website-because-apparently-nobody-knows-what-a-passkey-is
+2026-11-19T07:00:00 https://office365itpros.com/2026/11/19/new-memberof-operator
+2026-11-19T00:00:00 https://blog.icewolf.ch/archive/2026/11/19/exploring-the-next-generation-azure-CLI-and-azure-powershell-preview
