@@ -666,3 +666,4 @@
 2026-11-20T07:00:00 https://office365itpros.com/2026/11/20/to-do-apps-retirement
 2026-11-20T00:00:00 https://blog.icewolf.ch/archive/2026/11/20/azure-storage-explorer-1-47-1
 2026-11-19T18:12:44 https://techcommunity.microsoft.com/t5/microsoft-teams-blog/the-designs-we-didn-t-ship-how-user-feedback-shaped-the-new/ba-p/4573046
+2026-11-20T16:00:00 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/demystifying-macos-platform-sso-how-apple-and-microsoft-entra-id/ba-p/4437423
