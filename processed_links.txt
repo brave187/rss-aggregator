@@ -670,3 +670,4 @@
 2026-11-23T07:00:00 https://office365itpros.com/2026/11/23/automating-microsoft-365-update
 2026-11-23T00:00:00 https://blog.icewolf.ch/archive/2026/11/23/microsoftteams-powershell-module-8-1-0-released
 2026-11-23T12:46:39 https://levelupm365.com/2026/11/23/microsoft-ignite-2026-book-of-news-summary-ai-is-moving-from-assistant-to-infrastructure
+2026-11-24T07:00:00 https://office365itpros.com/2026/11/24/change-meeting-organizer-ux
