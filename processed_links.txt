@@ -671,3 +671,5 @@
 2026-11-23T00:00:00 https://blog.icewolf.ch/archive/2026/11/23/microsoftteams-powershell-module-8-1-0-released
 2026-11-23T12:46:39 https://levelupm365.com/2026/11/23/microsoft-ignite-2026-book-of-news-summary-ai-is-moving-from-assistant-to-infrastructure
 2026-11-24T07:00:00 https://office365itpros.com/2026/11/24/change-meeting-organizer-ux
+2026-11-25T07:00:00 https://office365itpros.com/2026/11/25/on-premises-servers-secure
+2026-11-24T20:09:19 https://techcommunity.microsoft.com/t5/microsoft-entra-blog/ask-the-microsoft-entra-experts-anything-live-on-december-2/ba-p/4576043
