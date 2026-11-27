@@ -676,3 +676,4 @@
 2026-11-25T18:09:06 https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse
 2026-11-26T07:00:00 https://office365itpros.com/2026/11/26/microsoft-365-backup-entra
 2026-11-27T07:00:00 https://office365itpros.com/2026/11/27/here-string-powershell
+2026-11-27T12:21:33 https://www.cloudcook.ch/intune-can-audit-cis-now-please-dont-break-onedrive-again
